@@ -227,106 +227,53 @@ To generate a file with required details, an Ordered Dictionary has been created
 
 Test Case Checks:
 ---------------
-
-#### Function - test_read_file()
-
-This function helps in validating the functionality of reading the input json file and check if it retruns the valid outcomes - A list of strings formed by joining the ingredients of each cuisine in the file and A list of cuisine names from the file. The assert statement validates if both of them are lists and check if their length > 0.
-
-```
-        a, b = ingredient_list, ingredient_cuisine
-
-        assert type(a)==list and len(a)>0 and type(b)==list and len(b)>0
-```
-#### Function - test_normalize_text()
-
-This function helps in validating the functionality of the text preprocessing. Here, the assert statement check if the returned object is a python list and also validates if all the strings in the ingredient_list are converted to lower case by comparing the results using islower().
-
-```
-        for i in range(len(ingredient_list)):
-        ingredient_list[i] = re.sub(r'\d+','', ingredient_list[i])                            # Removing numbers from the ingredient_list
-        ingredient_list[i] = re.sub(r'[^\w\s]','', ingredient_list[i])                        # Removing punctuations from the ingredient_list like (- , / ? ...)
-        ingredient_list[i] = ingredient_list[i].strip()                                       # Remove trailing or ending white space characters
-        ingredient_list[i] = ingredient_list[i].lower()                                       # Convert characters to lower case
-
-        a = ingredient_list
-
-        assert type(a)==list and sum([True for i in a if i.islower()])==len(a)
-```
-
 #### Function - test_model()
 
-This function helps in validating the implementation of model on data from json file. Here, the feature matrices are generated from the lists of ingredients, cuisines which have been split for train and test. Then, we fit the model with train data and predicted the cuisine name for the given list of input ingredients. Finally, we calculated cosine similarity to find the closeness of cuisines to the predicted result. Also, we considered a list to capture the nearest cuisines with scores in descending order. Assert statement validates if the cuisine predicted is in list of cuisines from the json file and checks if accuracy score is a float type object and validates if the list retured which helps in predicting closest cuisines.
+This helps in validating all the three functions as part of testing. I used the file_name = 'VA Virginia Beach.pdf' for which the functions have returned corresponding values as specified. This has been tested using assert command with each return value of function. Please find the code below
 
 ```
-        for i in data:
-                collect.append(cosine_similarity(vect_str, vectorizer.transform([", ".join(i["ingredients"])]))[0][0])
-                closer.append((i["id"], cosine_similarity(vect_str, vectorizer.transform([", ".join(i["ingredients"])]))[0][0]))
+        def test_model():
 
-        assert (res[0] in ingredient_cuisine) and type(score)==float and type(closer)==list and len(closer) > 0
+            file_name = 'VA Virginia Beach.pdf'
+
+            f_name, content_list = extract_input(file_name)
+
+            normalized_corpus = normalize_corpus(content_list)
+
+            cluster_id = predicting_cluster(normalized_corpus)
+
+            assert type(f_name)==str and isinstance(content_list, list) and len(content_list) > 0 and len(normalized_corpus) > 0 and isinstance(content_list, list) and len(content_list) > 0
+
 ```
-
-#### Function - nearest_cusines()
-
-This function helps in validating the functionality of closest cuisines. Here, the list of tuples is sorted based on the cosine similarity scores in descending order. Based on n value, we return the top 'n' cuisines with highest similarity score from the total list of findings. Using assert statement, we check if the retruned outcome is a list with length > 0.
-
-```
-        sorted_list = sorted(closer, key=lambda x: x[1], reverse= True)
-
-        a = sorted_list[1 : (int(n)+1)]
-
-        assert len(a) > 0 and type(a)==list
-```
-
-
-### Execution:
-
-Import, install all the required modules and packages
-
-We provide the arguments (N & ingredients) as input through command prompt. If a parameter isn't available for the --N  or --ingredient flags, error message is returned.
 
 We run the application using the below command:
 
 Command - 
 
 ```
-        pipenv run python project2.py --N 5 --ingredient wheat --ingredient salt --ingredient "black pepper" --ingredient oil
+        pipenv run python project3.py --document 'VA Norfolk.pdf'
 
 ```
 
-```
 
-        pipenv run python project2.py --N 5 --ingredient onions --ingredient garlic --ingredient "garlic powder" --ingredient "olive oil" --ingredient cucumber
-```
+![Giffy](docs/output_1.png)
 
+Output - The string which specifies the city name and the cluster id of the corresponding file.
 
-![Giffy](docs/program.gif)
-
-Output - The json formatted string which has the details of predicted cuisine name with it's similarity score and the dictionary of cuisine id and it's corresponding cosine similarity score.
-
+![Giffy](docs/output_2.png)
 
 
 ##### Assumptions:
 
-1. SVC - linear kernel has been considered. For the above dataset and train_size, accuracy_score is around (0.7734). The accuracy may vary with the model and random_state and test_size parameters.
+1. All metrics score has been considered to finf the optimum K value
 
-2. As the given data is related to ingredients and their details, I haven't considered removal of stop words and performing lemmatization as part of text normalization. This may be required while working with other datasets.
+2. K-mena has been considered for the the clustering model.
 
-3. The ingredients from input and json file are joined using ', ' so that we can make accurate analysis when there are ingredients with multiple words.
+3. subprocess module has been used to download the "en_core_web_sm"
 
-4. CountVectorizer has been used to cconvert the text to numbers and geneate the feature matrices.
+4. As part of pre processing, I have removed single charcaters and words with 2 characters which diesn't have any context.
 
-5. train_test_split() has been used with test_size = 0.25 and random_state=42.
-
-6. Input ingredients string has been transformed and used to predict the outcome from the model.
-
-7. To find the similarity score, cosine similarity has been considered. This has been calculated between the input ingredient string and string of ingredients from each cuisine of the dataset file. The maximum score has been specified with the predicted cuisine name.
-
-8. To calculate the top n closest cuisines, cosine similarity scores have been considered which are sorted in descending order of their scores and captured corresponding cuisine ids.
-
-9. Scores are rounded to 5 decimal points. So, there may be variation in score representation if the adjacent scores have minimal difference in other decimal places.
-
-10. dumps() from json has been used to convert the dictionaries to json object. It takes around 6 minutes to implement the model and get the result.
-
+5. Vector.pkl has been generated and used which helps to fit_transform the contents of all pdf documents before we transform the input document content and prediction of the cluster id.
 
 #### Test Case Run:
 
@@ -340,4 +287,4 @@ Output - It returns the status of test checks based on assert conditions mention
 
 Execution Sample Gif:
 
-![Giffy](docs/testing.gif)
+![Giffy](docs/test_check.png)
