@@ -1,0 +1,1112 @@
+	city	raw_text	clean_text	cluster_id
+0	VA,Norfolk	"City of Norfolk, VA
+*
+Response Proposal to USDOT
+Beyond Traffic: Smart City Challenge Grant
+-
+Table of Contents
+1 City Challenges and Vision ..........................................................................................................1
+2 City Characteristics .....................................................................................................................7
+3 Other City Characteristics............................................................................................................8
+4 Preliminary Site Map ................................................................................................................11
+5 Holistic Approach to USDOT Vision Elements.............................................................................13
+6 Risks and Mitigation .................................................................................................................20
+7 Partners, Stakeholders and Governance Processes ....................................................................20
+8 Existing Transportation Infrastructure.......................................................................................22
+9 Data Management and Sharing.................................................................................................23
+10 Standards and Architectures .................................................................................................26
+11 Measurable Goals .................................................................................................................26
+12 Capacity for Implementation.................................................................................................27
+13 Leverage Opportunities.........................................................................................................28
+14 Conclusion............................................................................................................................29
+City of Norfolk Page 11City Challenges and Vision
+The promises of the coming advances in transportation afforded by vehicle technology are
+astounding. Changes in vehicle technology alone will improve safety and mobility in our city. But,
+we have not been waiting idly – we have been on a continuous course of infrastructure,
+operational and design improvement, and have more on the way; changes that are going to help
+now, and facilitate the integration of the new. Our vision for Norfolk is innovative, yet
+thoughtful, targeted, and bounded by rationality, as it should be. Our vision for this project is as
+well, facilitating specific Norfolk-supportive outcomes, while strongly supporting national
+research and development. We believe we can make strides for us and for the nation.
+Norfolk is a coastal city blessed with extensive waterfront, a temperate climate, beautiful historic
+neighborhoods, rich history, and tremendous diversity. Hampton Roads and the Elizabeth River
+provide the best year-round harbor on the east coast, the world-class resource that has been the
+driving force for this community for almost 400 years, and supports the world’s largest Naval
+Base and several large commercial ports. Those very blessings, in addition to being the
+constrained, older urban core city of the region, are also the source of major challenges for the
+City.
+Challenges
+Norfolk cannot escape its relationship with the Atlantic Ocean, the Chesapeake Bay, the
+Hampton Roads and the Elizabeth River, with the projected sea-level rise and resiliency
+challenges they bring.
+Three expressway tunnels; an interstate drawbridge; at-grade, under and
+overpass railroad crossings; Light-Rail Transit; local/express bus and ferry
+services; two interstates; and a Continuous-Flow Intersection – we have a
+challenging transportation system as well. More details on our city, our transportation system,
+and our wide range of aggressive resiliency initiatives are provided in Sections 3, 4, 5 and 8.
+Almost without exception, if you ask people that live or work in Norfolk what they like least
+about being here, one of their top two answers would be “traffic congestion”, inferring not only
+delay but safety concerns. We want to change that, for the better and for good. But even as we
+seek to change what is, issues are emerging that will dramatically impact our city and way of life.
+As simple as “reducing traffic congestion” sounds, our vision requires context, and rests upon a
+foundation of critical principles, that are important to our city, and many others. First, we are not
+a rich city – in fact we are somewhat hampered with a large proportion of federal and state lands
+that provide no local tax revenue. Our choices for spending must be very pragmatic and
+targeted toward truly meaningful local benefit. Our solution will not be expensive to maintain
+and operate, and it will leverage private and cross-needs support to maximize benefit-to-public
+cost. Second, our planning focus is on “Vision 2100”, a major City planning initiative. We must
+begin to face the 21stcentury challenges of being a historic, low-lying coastal city. We are
+A Robust
+Test Platform-
+City of Norfolk Page 2planning for resiliency and transforming Norfolk even further toward a great live/work/play city
+that maintains support for the state’s and nation’s economy and security derived from our
+harbors. We know that transportation is a means for people and urban life, not an end. The city
+of the future addresses safety, accessibility and sustainability, with support from allmodes of
+accessibility. Third, we live in a world of rapidly changing technologies, and changing
+demographics. We must serve an older population, while adjusting to younger generations who
+won’t live and work in ways of past generations. We need to build tools that are adaptable and
+agile. In short, we not only want our city to be smart, we want our approach to be smart .
+Norfolk’s Vision is also influenced by a different relationship with climate change than may be
+typical. That of a city, and road network, that will be seriously impacted by sea level rise, and while
+not only learning to adapt and survive, must thrive. Our vision for planning and expenditures
+must focus on long-term and lasting success – not quick fixes. After population decline to the
+suburbs fairly typical of core cities in the latter 20thcentury, Norfolk’s population is rebounding
+in this century in no small part due to an impressive array of City and private redevelopment and
+investment. That continues and there is substantial land ripe for mixed-use redevelopment that
+is pedestrian oriented, with access to bus and light-rail transit. Norfolk’s approach for reducing
+oil reliance and carbon footprint is to incent a shift in regional population growth back to the
+core, to renewed reliance on pedestrian, bicycle and transit travel, resulting in reductions of
+annual VMT in the millions, according to a 2003 Smart Growth Analysis conducted by the
+Hampton Roads Transportation Planning Organization (HRTPO).
+In addition, while Norfolk continues to embark on an aggressive flooding prevention and
+mitigation plan (see Section 3 for more details), we must deal with the reality of “managing” our
+system, keeping our residents and visitors safe and sufficiently mobile, particularly for essential
+services, during periodic flood events that are unavoidable. Coupled with other “reliability”
+issues faced in our region due to limited connectivity and water crossings, we have the most to
+gain by addressing non-recurring congestion. To wit, the HRTPO compiled national statistics of
+similar-sized cities and found that this region fared very poorly in travel time reliability measures,
+and further that this predominantly accounted for its comparatively high congestion ranking.
+Our Vision for Addressing the Challenges of Mobility and Climate Change in Norfolk
+Ultimately, the implementation of our Vision will have the following outcomes:
+Safer Multimodal Travel – a result of actions at network/system level down to street conflicts
+Facilitate Smart Growth, mode and temporal shifts, trip reduction – the overall reduction of
+regional Vehicle Miles of Travel and greenhouse-gas emissions
+Improved travel reliability – a key for our area, addressing the majority of our congestion and
+barriers to synergy amongst the urban core cities, and the resiliency issues of periodic flooding.
+Improved accessibility to jobs, goods, services and social life; mitigate the negative aspects of
+urban travel through system management, information, smart land-use and digital accessibility.-
+City of Norfolk Page 3With these critical foundational principles, and our “special” traits in mind, Norfolk proposes major
+“Smart City” project efforts in three areas, all supported and interrelated by a fourth, a robust
+information management system . This approach for the funding will address all Norfolk and
+USDOT Vision Elements – more information on those particulars is provided in Section 5.
+Key Project Area One : Develop Norfolk “Intelligent Mobility App” and Intelligent Sensing
+Easy-to-receive-and-process, actionable information for travelers will be orders of
+magnitude above current practice. We will build upon the great work of our partners.
+Primary goals will include mode-shift and route/time-shift supportive information
+Advance concepts of low-cost system data acquisition from existing, leveraged resources
+Integrate intermodal and transit vehicle monitoring for traffic management functions
+Leverage the tool by integrating other public and private services to “un-waste” time.
+Expand to the “Intelligent Community Platform” as other service platforms evolve.
+Key Project Area Two : Connected and Automated Vehicles Development and Testing Support
+Norfolk has and is actively expanding/upgrading ATMS infrastructure that allows easy
+installation of CV-related devices. “Real-Life-Issues” V2I testing and evaluation on
+urbanized arterials should be happening nationally in this time frame and the City will
+provide an outstanding test environment and support from local to international experts.
+City staff will bring an important perspective as traffic signal operators and maintainers
+that should enhance concept troubleshooting and testing design.
+We will expand the “connected” concept to all users, not just vehicles, and to a broader
+vehicle spectrum, through adaptations using DSRC technology in smartphones.
+Our full proposal will elaborate on a collaborative R&D support approach consistent with
+the current state of research. One certainty, we know that our approach must include
+“change management” as the state of practice will undoubtedly evolve as we proceed.
+More details on our system and proposed “test bed” are contained in sections 3, 4 and 5.
+Key Project Area Three : Develop Active “Eco” Traffic
+Operations Management Tools/Systems
+We will focus first on high-impact strategies at
+critical locations subject to extreme incident-
+induced stress or impassable roads.
+Innovative and flexible capacity-enhancing
+intersection operations including variable cycle, phasing and lane-utilization strategies,
+facilitated by the platforms of intelligent vehicles and sensing, and other partner systems.
+Integration of Pedestrian, Bicyclist and Transit utility and safety enhancements. Norfolk is
+a strong proponent and an ideal setting for Complete Streets and compact development.
+Central System rapid-action signal management tools elevating TMC performance.
+Visualization and active flow-chart based decision-support tools for operators (human
+operators are still the most valuable tools in the box).Fulfillment Key Project Area
+Outcome 1 2 3
+Safety 
+Mode/Time Shift 
+Reliability 
+Accessibility -
+City of Norfolk Page 4“The Heart” – A Powerful and Agile Data Acquisition and Information Management System
+Figure 1 illustrates the architecture of our proposed Transportation Information and Decision-
+Support System. In short, the purpose of the system is to:
+Collect data – convert it to a collection of intelligence – effectively put targeted information
+into travelers’ possession for supporting both real-time and pre-trip decisions – similarly use
+intelligence to take targeted real-time multimodal transportation system management
+actions, with and without human interaction – and monitor system performance over time
+for identification of potential operational and roadway improvement strategies.
+The architecture could be described as having three “zones”. Moving from left-to-right, first we
+have the Data acquisition zone – the points of data collection. They take widely varied forms and
+require a variety of interface modules to pass the data to the “Analytics” zone, a series of
+databases and processing/analyzing tools to create intelligent “use-case” information. This
+information is then carried through various interfaces to the “edge-users” zone, a combination
+of portals and applications supporting human and automated decision-support. This structure
+lends itself to logical compartmentalization of objects that facilitates change and adaptation.
+Details would include structured and documented interface mechanisms between objects.
+An important note regarding the concept of “analytics” in the intelligent transportation world:
+there are “on-street” and “remote”, or “system”, analytics. On-street analytics are the subject of
+progressions in the connected-vehicle world and some advanced traffic controller operations.
+This system is addressing the “remote” side – creating abilities to influence operational actions in
+advance of events, as opposed to those that demand action in an immediate locale and time,
+often safety-related, handled by on-street systems.
+Several other concepts are noteworthy. 1) The Data zone incorporates extremely important
+data capture from transportation partners, emergency services and the business community, as
+well as travelers. Much of this information is of a less technical nature than “traffic” data
+requiring participant input, and some will actually come into the system from the edge, e.g.
+smartphone app. 2) The system relies heavily on strong participation through user smartphones
+or similar devices. There will be concerns regarding privacy and security. We have no hesitations
+about achieving sufficient participation. Benefits to users and secure system design, including
+limiting the use of personal data in the system, will attract users. 3) There can be a tendency for
+large systems such as this to become “black boxes”. At every level this system will include
+reporting, visualization and dashboard type tools to support quality assurance and human
+decision-making. 4) There is a huge role that Agency Operating Systems play in “end user”
+impacts, much of which takes place within those individual control systems. The lines between
+which applications do what may change, but in any event there is also a need to improve upon
+operational actions taken, and these will also be addressed, regardless of the side in which they
+reside. 5) It is crucial that the Open Data Portal doesn’t simply exist. Comprehensive “user tools”
+will be created to facilitate the likelihood of third party interest and success.-
+City of Norfolk Page 5
+-
+City of Norfolk Page 6Implementing the Smart Cities Challenge Demonstration Project
+Importantly, our vision for this leveraged grant funding is outcomes of real value, both long and
+short-term, and not just to Norfolk but to the entire country. Our project will be led by
+transportation and urban activities professionals that understand human factors and the concept
+of accessibility in promoting “smart” urban living.
+For a project of this type a certain amount of “dividing and conquering” is a necessity as a
+program management technique. Our team allows for efficiently segmented resource allocation
+but also provides for redundant capabilities. The key project areas as we have defined them as
+well as the three “zones” of the information system structure, fit nicely into allocations of
+expertise and capacity over the entire duration of the project. It is expected that we will enhance
+this arrangement moving forward, and of course the project will involve engaging contractors,
+which the City does on a regular basis. In fact, the City’s practice of having highly capable
+consultants and contractors “on call” with contracts will facilitate this process.
+The program management plan will build upon the Project Management Body of Knowledge
+(PMBOK). Kimley-Horn (KHA) will support the City of Norfolk in managing the proposed program
+based on similar experiences working on expansive technology programs including Traffic
+Adaptive signalization standards, the integration of KITS Mobile for Cyclists in Austin, and
+similarly for Connected Vehicle research planning in NCHRP 20-24. As such the Program
+Management plan will consist of managing scope, requirements, schedule, financial, quality,
+resources, communications, project change, risk, and procurement. With the nature of this
+multifaceted complex effort and range of team members and partners, managing resources,
+communications, project change, and risk will be key focus areas. In addition, the City of Norfolk
+and KHA will use certified Project Management Professionals (PMP) within the firm to review the
+project management plan throughout the project.Sample Schedule and Tasks
+Year 1Metropia installs current system, “jump starts” app development and data collection. ODU
+leads cooperative effort with USDOT to identify V2X research opportunities. City leads early
+agency partnership integration efforts, targets locations to develop new operating strategies,
+team partners research the top video analytics currently available. Investigate sharing services.
+Year 2Continue Data System development, particularly analytics. Develop “Eco” operati ng platform
+concepts. Install field devices and begin V2I testing. Develop test sites for autonomous shuttle.
+Develop plans for EV charging sites. Deploy real-time transit information systems.
+Year 3Complete Data System and app development. Continue V2I testing. Implement autonomous
+shuttle pilot. Develop selected Eco-traffic signal system utilities.
+Year 4 Demonstration/Evaluation-
+City of Norfolk Page 72City Characteristics
+Norfolk is an independent mid-size city in the Commonwealth of Virginia, located at the core of
+the Hampton Roads metropolitan area consisting of nine cities and seven countries. According to
+the 2010 Census, Norfolk’s population totaled 242,803. Norfolk is Virginia’s second most
+populous city and serves as the historic, urban, financial, and cultural center of Hampton Roads.
+Norfolk has the highest population density in the region of 1.4 million - 4,363 people per square
+mile according to the 2010 Census - twice the population density of all other cities in the region.
+This represents 17% of the population of Norfolk’s local urbanized area. With 191,212 jobs, and
+3,533 jobs per square mile, Norfolk is the region’s employment center with the highest job
+density in the region.
+Aside from being the hub of the Hampton Roads region, Norfolk is an international city that
+hosts globally and nationally important assets. Norfolk and the region have a unique
+interdependency with the military. The region is home to the largest concentration of U.S.
+defense facilities in the world, and Norfolk is the home to Naval Station Norfolk, the largest naval
+complex in the world, which supports the readiness of the Navy’s U.S. Atlantic fleet and drives
+the economy and employment of Norfolk and the region. Nearly a quarter of the nation’s active-
+duty military personnel are stationed in the region, particularly in Norfolk and a third of the U.S.
+naval ship-building and repair capacity is housed there. The region is also home to the third-
+largest commercial port on the East Coast that is projected to grow. Norfolk specifically hosts the
+Port of Virginia’s Norfolk International Terminals, one of the city’s and the region’s most
+significant economic assets, which makes Norfolk an integral node in national and global trade.
+These two stalwart industries provide the foundation for the region’s economy. Department of
+Defense spending supports over 40% of total regional employment. Over 8,000 service members
+transition out of the military annually in the Hampton Roads region, providing the city with a
+highly skilled labor force. In addition, the Port of Virginia handles over 81 million tons of cargo,
+generates $60 billion of economic activity annually, and provides employment in port-related
+industries for 343,000 Virginians. Norfolk’s population diversity also sets the city apart from the
+region. While diversity is one of Norfolk’s most distinguishing attributes, it is also one of its
+greatest challenges. Poverty levels are highly concentrated in some communities, and the
+difference is even more significant by race and age. Relative to other cities in Hampton Roads,
+Norfolk has the highest level of income inequality. More than half of Norfolk residents have low
+to moderate incomes, with 19.2% living in poverty.-
+City of Norfolk Page 83Other City Characteristics
+a)Existing public transportation system.
+Through Hampton Roads Transit, Norfolk supplies a robust network of public transportation
+services, including local and express bus routes, para-transit, a ferry and light-rail (The Tide). The
+Tide opened in 2011, and will be extended into Virginia Beach, attracting additional riders. An
+EIS is about to begin for a transit extension to the Norfolk Naval Station. The City just opened a
+$7 million Downtown Transit Center greatly enhancing system efficiency, connectivity to the
+Tide, and access to downtown. All of these services are subsidized by the City (see Section 8).
+b) Environment conducive to demonstrating proposed strategies
+Norfolk is a national leader in the field of resilience and a fertile location for innovative solutions.
+Due to its history of resilience, its demonstrated openness to innovations and ability to
+transform when changing conditions require it, Norfolk was selected as one of the first resilient
+cities in the 100 Resilient Cities (100RC) network by The Rockefeller Foundation. The two-year
+100RC grant provides a wealth of resources, including funding for Norfolk's first (and world’s
+third) Chief Resilience Officer (CRO) – an executive post supported by a cross-disciplinary team
+reporting directly to the City Manager and Mayor, access to renowned international experts, and
+membership in a cohort of global cities with similar challenges. Through 100RC, Norfolk and
+other cities, such as London, Paris, and New York, are identifying, sharing, and institutionalizing
+innovative resilience practices which inspire and support thousands of cities around the world.
+100 Resilient Cities defines resilience as the ability of individuals, communities, institutions,
+businesses and systems within a city to survive, adapt and grow, no matter the chronic stresses
+or acute shocks they face. Norfolk defined the following resilience challenges through a
+community engagement process—flooding and the long-term impact of sea level rise, and the
+need to better connect vulnerable populations, among others. Surrounded by water with 144
+miles of shoreline, low-lying and flat topography Norfolk’s among the nations’ most vulnerable
+cities to coastal flooding. The city is experiencing the highest relative rate of sea level rise on the
+East Coast, Norfolk and the region is second only to New Orleans as the largest population at risk
+from sea level rise. As sea level continues to rise, severity of storm surge and extent of flooding
+will continue to increase, posing significant challenge to residents’ mobility and mission
+readiness of the U.S military forces and operation of water dependent industries.
+Norfolk views these challenges as opportunities to transform in a more resilient way and show
+the world how to thrive on the coast despite increasing risks. After two years of thorough
+research, analysis and stakeholder engagement, Norfolk launched an integrated Resilience
+Strategy to guide the city to be the successful coastal community of the future continuing its
+business on the water in the environment of increased risk. The city intends to use the
+opportunity to address environmental changes as a catalyst for diversifying the city’s economic
+base and connecting individuals through new networks. In short, Norfolk believes that the-
+City of Norfolk Page 9coastal community of the future will be a city that is more physically, socially and economically
+connected.
+Funding for Norfolk’s proposed U.S. DOT Beyond Traffic projects will support Norfolk in
+implementing its Resilience Strategy, as well as collaboration with other cities and private and
+public partners – including Naval Station Norfolk and Port of Virginia - all which have a high stake
+in Norfolk’s success. Since Norfolk experiences these challenges earlier than others, solutions in
+Norfolk - a nexus of trade for the eastern third of the U.S. and a security center for the world -
+will help other cities on the coast to improve resilience. Finding innovative, smart city solutions
+focused on reducing risk and improving data-driven decisions in coastal cities (while replicable
+and scalable to any city) is critical because more than 80% of the nation’s economy is supported
+in coastal states; nearly 80% of U.S. import and export freight is transported through seaports;
+and more than 50% of the population and U.S. economic activity are in coastal regions.
+As demonstrated in the leverage section of this proposal, Norfolk has already begun to create
+this new city through a series of funded and leveraged initiatives. Norfolk’s capacity to pilot
+innovative strategies was demonstrated in January 2016 when Norfolk was selected as the third
+highest national winner of the HUD’s National Disaster Resilience Competition (NDRC), securing
+$120 million to continue implementing strategies to design the coastal community of the future
+and capture the resilience solutions in a new Resilience Accelerator discussed in Section 5 of this
+proposal. The USDOT project would complement/benefit and be bolstered by this project and its
+partnerships among many other supporting initiatives underway in the city and the region.
+c)Continuity of committed leadership and capacity to carry out the demonstration
+Norfolk has successfully implemented a variety of projects similar in scale, scope and complexity
+to those proposed in this application. In the past three years, the City’s Public Works has
+managed $267 million in infrastructure projects, including construction of the flagship Slover
+Library and the Courts Complex. Slover Library is among the most technologically advanced
+public libraries in the country. The state-of-the-art Courts facility is a LEED-certifiable
+(Leadership in Energy and Environmental Design) green building. Phase I grand opening was in
+January 2015 and now houses General District Court and Circuit Court. Phase II is underway and
+is estimated to be completed in 2017.
+Projects managed by the City of Norfolk follow a set of standards to initiate and manage
+individual projects. This methodology provides tools for use by the project manager containing
+definitions, guidelines, and templates needed to deliver successful projects. The methodology
+establishes common ground for all projects within the organization and the standards in this
+methodology serve as assets to each team member and provide a common format for evaluating
+progress toward project goals, objectives, and deliverables. The methodology encourages a top-
+down approach to project management. It ties directly to the project life cycle phases and
+project initiation process flow to provide a more precise definition of projects, a common-
+City of Norfolk Page 10lexicon used in project management, and a framework of activities mapped to each project class
+size. It enables the tracking of progress against pre-determined metrics for reporting purposes.
+d)A commitment to integrating with the sharing economy
+The City of Norfolk is committed to integrating with the sharing economy demonstrated by the
+development and support of the following initiatives:
+The City developed a Bicycle and Pedestrian Strategic Plan, dated September 2015, and
+initial implementation has included a Bike Sharing program.
+Uber and Lyft are ride share services that are available and in use in the city
+Hatch Accelerator, a public-private partnership startup accelerator program for
+technology and entrepreneur community. This program launched in 2012 and continues
+to be successful in growing entrepreneurial talent and retaining/ attracting that talent to
+Norfolk.
+Innovation Research Park, a collaboration between ODU and City of Norfolk that includes
+business incubation and accelerator services to help companies in any stage of
+development to achieve a competitive advantage.
+City of Norfolk will launch a Coastal Resiliency Laboratory and Accelerator Center that will
+serve as a nexus for technological, organizational and innovation around community
+revitalization, water management, resilience measurement, port, Naval Station, and
+other water-sector business related resilience challenges. Funding of $12 Million has
+been allocated for this initiative.
+The DOT Smart City Challenges Grant enables us to leverage our current sharing economy
+initiatives and expand them to include: car sharing, autonomous vehicles, and data sharing. Data
+sharing will open opportunities for the business and entrepreneur community in the following
+areas: traffic management, nuisance flooding notification and avoidance, reuse and sharing of
+services by citizens (peer to peer services), and health platforms to address patient
+management. These innovations focus on the citizens rather than city process.
+e)A commitment to making open, machine-readable data accessible, discoverable and usable by
+the public to fuel entrepreneurship and innovation.
+The City of Norfolk’s Chief Information Officer is developing our open data policy. Our open data
+policy will provide a mechanism to break down the City’s departmental data silos and expose
+important information to the public to better facilitate community engagement, transparency,
+and build trust between the City and the residents it serves.
+A vast variety and number of data sources are currently installed in the City, such as moving and
+stationary sensors, and CCTV cameras. Coupled with the user interface data, such as cell phone
+apps and text messages, as well as geo-location, the constantly growing data amounts may be
+used to optimize flooded road management, public transit plan, predict congestion and flooding
+impact on the road infrastructure and traffic pattern. Beyond the transportation impacts, the-
+City of Norfolk Page 11data gathered during recurring flooding may be used to validate flood-prediction models
+developed at the Virginia Institute of Marine Science (VIMS), help local entrepreneurs to gauge
+the current customer needs, to fine-tune their operation hours, and to manage supplies.
+Much investigation has been done recently in applying Big Data techniques to specific data sets
+mentioned above. However, research into the integration of many data sets with diverse data
+types to infer societal and economic impacts has just begun and is being enabled by emerging
+public data storage and user access facilities as well as high-capacity network infrastructure. In
+particular, data.gov portal contains a variety of data sets in many domains of interest to the
+society. One possibility is to supply the transportation data being gathered by the City of Norfolk
+with a similar meta-data structure so that it may be combined with existing data.gov data sets
+using Big Data methods and---as an outcome of the data-collection activities---be housed in the
+data.gov repository for the open public access.
+In 2015, the City of Norfolk began working with Socrata, the global leader in software solutions
+that is designed exclusively for a digital government. Socrata’s cloud-based Software as a Service
+(SaaS) solutions supported by their Open Data network provide data driven innovation and
+transform data into actionable insights for measurable cost savings. With Socrata’s Open Data
+API and our creative commons license, developers and entrepreneurs can programmatically
+access the City’s data for their own consumption and application development. Some datasets
+we have on the Socrata open data platform are: (1) Call Center/311 requests; (2) Code
+Enforcement Cases; and (3) Building Permits.
+Also in 2015, the City launched our ArcGIS Online Open GIS data site to share our live
+authoritative GIS data. The City’s Open GIS platform allows anyone to explore, visualize, analyze,
+and share geospatial data to help solve real problems at no cost. Built using the ArcGIS REST API
+the City’s Open GIS data site provides a simple, open web interface to our hosted map services.
+The allows for multiple output formats to be consumed, including html (HyperText Markup
+Language), json (JavaScript Object Notation), image, kmz (compressed KML, or Keyhole Markup
+Language), and jsapi (JavaScript) to name a few. Some dataset groups we have on the ArcGIS
+open data platform include: (1) Property Information layers; (2) Transportation; (3) Planning and
+Zoning; and (4) Public Safety.
+4Preliminary Site Map
+Figure 2 contains several mapping images that help describe features relevant to the suitability
+of Norfolk for providing an excellent site for USDOT’s investment. Key features illustrated on the
+main map include tunnels, traffic signals, the Tide LRT line, and railroad crossings. A proposed
+“test bed” for Connected Vehicle V2I equipment (further description in Section 5) is located.
+Other sites shown include the two largest intermodal port facilities, Virginia International
+Terminal and Lambert’s Point Coal Terminal, Naval Station Norfolk, and Old Dominion University.
+The intermodal terminals are served by Norfolk Southern rail lines.City of Norfolk Page 12Figure 2
+Test Bed
+Figure 2. Preliminary Site Map
+Tidal Inundation Tracking Application for Norfolk (City Developed)
+Berkley Bridge Lift Span (I -264) Typical Railroad UnderpassWith TITAN,
+residents can view
+the impacts of a
+predicted flooding
+event
+City of Norfolk Page 135Holistic Approach to USDOT Vision Elements
+In Section 1 we discussed a Vision for Norfolk’s future, and key “project areas”. That Vision
+reflects a very holistic approach to our City’s challenges, but the next “level” must delve into
+more detailed objectives and strategies. This section provides elaboration, and addresses the
+objectives of USDOT’s funding. These strategies continue to focus on achieving impact while
+keeping costs low, thinking “beyond traffic”, and always remaining adaptable.
+It is noteworthy that for every vision element there are inherent synergies with others, and in
+fact necessary ones to achieve impacts, but also opportunistic ones that can cumulatively
+increase impact. For example, data sensing alone accomplishes nothing. In keeping with our key
+principles, we will seek to leverage synergies to multiply benefit and keep costs low .The efficient
+and balanced integration of elements is critical to achieving maximum success.
+The table below addresses our Vision’s alignment with each of the 12 USDOT Vision Elements.
+Vision
+ElementAlignment and Approach
+ONE
+Urban
+AutomationThe City has numerous locations that are sure to benefit from the introduction of
+“community” autonomous vehicles, in addition to general private fleet absorption. Two
+college campuses, a downtown with residents and visitors frequenting its attractions,
+the historic Ghent district, circulators for LRT and ferry patrons. Our proposed
+information system is highly supportive of creating the intelligence platform for
+autonomous vehicles in demand-based services and transit connection roles. Such
+services could provide improved mobility at less cost . Support for V2X infrastructure
+testing in support of is addressed below. Our Port and
+Navy partners could have ideal applications.
+The figure to the right illustrates a potential LRT station
+feeder service connecting neighborhoods that are
+separated from the station by highways. Norfolk’s own
+staff or contracted resources could be utilized for the
+application of pavement markings or other roadway
+infrastructure to support pilots or testing.
+TWO
+Connected
+Vehicles
+(and other
+users)Norfolk’s team will benefit from and build on the knowledge base accumulated over the
+years from the USDOT’s Connected Vehicle (CV) test-beds and Pilot Deployment
+Program around the country (e.g., Southeast Michigan, CV Pilot in NYC). Much has been
+learned over the years, ranging from the development of systems for privacy protection
+to standards for broadcasting SPaT (signal phase and timing) message from the RSU to
+the receiving on-board equipment (OBE). There is much more yet to develop, test,
+prove, and implement before these technologies, or elements thereof, are considered
+“roadworthy”.
+To provide an environment for showcasing and testing Connected Vehicles concepts
+and technologies the Norfolk team plans to do the following:
+The City will provide the base infrastructure for a comprehensive real-world arterial
+system test-bed, that will include a continuous-flow intersection, a single-point arterial
+interchange, a railroad overpass with adjacent signals, three interstate interchanges
+-
+City of Norfolk Page 14Vision
+ElementAlignment and Approach
+Connected
+Vehicles
+(and other
+users)(one a 3 -interse ction tight -diamond with adjacent at -grade LRT crossing operated from
+a single controller), Sensys volume counters, traffic monitoring cameras, all within a
+contiguous 6.2 mile section of 4 to 10 lane roadways, with 36 Ethernet-connected
+signals using 170 Type cabinets. The fiber channels throughout emanate from a Comm
+field node located in our traffic maintenance building, in the corridor. The corridor is
+identified in Figure 2. V2I RSU devices will be installed at locations as desired to
+establish testing frameworks. After evaluating the literature and the lessons learned
+from the CV test-beds and collaborating with USDOT, the team will identify numerous
+CV applications that will be implemented and tested in the field (Red Light Violation
+Warning, Pedestrian warnings and/or detection, SPaT messaging in complex urban
+signal settings, etc.). Furthermore, the Norfolk team will coordinate with signal
+controller/system vendors (e.g., Econolite) to expedite the implementation and testing
+of Intelligent Traffic Signal Systems (I-SIGs) in the field where data from CV are
+integrated and fused with data from traditional sensors for optimizing signal timing. CV
+and remote data will allow predicting traffic patterns and enable proactive signal timing
+to reduce congestion, improve transit service, and enhance overall intersection safety.
+Given that DSRC-equipped vehicles are not yet common on the roads, the Norfolk team
+suggests working with the industry leaders in wireless communications (e.g.,
+Qualcomm) to test and implement alternative solutions.
+Working with Qualcomm, equip smartphones with the DSRC capability as well as a
+safety and mobility app. User interface and information provided to the user will
+be optimized to minimize driver distraction.
+Install after-market DSRC on test vehicles with the same safety app on cell phones
+Install DSRC in signal cabinets and enable communication of SPaT with vehicles
+and cell phones.
+Lastly, to have a holistic system, the Norfolk team will make relevant data from CVs
+available to the “cloud” to support other applications that do not necessarily rely on
+DSRC. For example, an emergency vehicle (EV) with a DSRC can transmit its location,
+route, and destination to vehicles in its path and to an RSU which then sends this
+information to the cloud. CVs and others with a smartphone app in the immediate area
+of the EV would receive a message with exact details about the EV’s route, which will
+help vehicles and pedestrians clear paths for the safe passing of the EV.
+The team would expect to advance the state of R&D in the CV arena, while also creating
+current improvements for operations and safety in proximity to signalized intersections.
+THREE
+Intelligent,
+Sensor-Based
+InfrastructureConsistent with our stated Vision, our approach definitively is designed for maximum
+impact at reasonable life-cycle costs. In Norfolk’s Vision, smartphones, or more
+generally mobile consumer devices, will play a central role as a sensing and
+communication technology. There are numerous motivating factors for this: (i) The
+proliferation of mobile devices with ever-increasing computing, sensing, and
+communication capabilities; (ii) The ability for rapid deployment and ease of software
+updating with the current App-store system; (iii) The ability to collect a large-amount of
+data at a very low cost; (iv) The ability to collect travel data across all modes of
+transportation;.and (v) the potential to extract rich traveler information from both GPS-
+City of Norfolk Page 15Vision
+ElementAlignment and Approach
+Intelligent,
+Sensor-Based
+Infrastructureand low -energy inertial sensors (i.e., accelerometers, gyroscopes, compass) within the
+smartphones. From the rich sensor data, beyond extracting trajectories of travelers, it is
+possible to detect the mode of travel (see figure), vehicle operating mode (e.g., idling,
+accelerating), and the amount of time spent within each mode. Such information, which
+currently does not exist at a large scale, will be invaluable for accurately estimating GHG
+and other emissions. Furthermore, by relating such data to links and nodes of a
+transportation network, the system operators can determine areas with inefficient
+operations and higher emissions.
+In addition, with the recent advancements in chipsets technology provided by
+Qualcomm – a partner on Norfolk’s team) it is now possible to have dedicated short-
+range communications (DSRC) technology on smartphones. This will enable
+smartphones to serve as a medium for communications among vehicles, pedestrians,
+and infrastructure to support various safety and mobility applications.
+Streaming video from traffic monitoring cameras (already the most powerful tool in an
+operator’s arsenal) is currently an underutilized resource, usually providing no direct
+value over 90% of the time. We propose a ”multi-purpose” camera system that uses
+visible and thermal imaging; PTZ, detection and 360 degree cameras; and powerful
+video analytics platforms, to leverage the already-supported systems into a data-
+production monster. (of note: relatively inexpensive camera systems are readily
+maintainable by existing traffic signal maintenance labor forces) This system could
+produce in addition to standard traffic data, both real-time and historical, movement
+data on the entire user cross-section, O-D/route data, security, road surface and
+weather conditions. Norfolk’s efforts in establishing a system-wide high-capacity
+Ethernet platform can support the data transmission requirements for this approach.
+The nature of the system also is less “black-box” since performance can be observed at
+any time, enhancing troubleshooting.
+The City plans to develop a comprehensive set of tools to estimate water inundation
+levels due to flooding through crowdsourced images, video surveillance images if
+available, and a network of gauges or sensors. A custom smartphone app will be
+developed to enable citizens to collect and upload inundation image data in real-time.
+CV V2I sensing has been addressed.
+-
+City of Norfolk Page 16Vision
+ElementAlignment and Approach
+FOUR
+Urban
+AnalyticsThis element involves converting captured “data” into a variety of “products”. There is a
+distinction because we must do all three of these: take actions, provide actionable
+intelligence to users and our operating systems, and provide “useful” information to
+third-parties that will also provide benefits and help support the system. Figure 1
+illustrated the need for a variety of “analyzers”, having different functions, as you move
+from data at is source to product. Each one is unique, of a different flavor, requiring
+different constructs and skills. We are literally walking through the door of the data-rich
+environment of the future, requiring different thinking than the past. With the sheer
+volume of data and the complexity of the intelligence to be mined and produced, this
+may be one of the biggest “big data” challenges to date. The science of “big data”
+analytics requires cleverness in how data is housed, in computational techniques of
+algorithms, digital and spatial analysis, and in user delivery. This we understand and
+bring all of the requisite skills to the table.
+We’ve got to “meld and supplement” source data using statistical and spatial
+techniques to develop our total state conditions over-and-over again for our real-time
+moving picture., and craft the “agent” forms (an intelligent representation) of data that
+are easier to “mine” by the downstream analyzers. For example, a downstream analytic
+may compare two spatial (2 or 3 dimensional) dataset agents looking for a significant
+change. Agent datasets may reflect conditional variances from a norm rather than
+actual values. Archived libraries of historical actual and agent datasets can form the
+basis for models using advanced techniques such as pattern recognition and machine
+learning. Our private and research institute partners bring ready experience in these
+areas.
+The obvious analytic goals for traffic operations professionals are things like: predicting
+multimodal traffic flows, particularly in light of non-recurring events such as crashes,
+work zones, impassable roads and special events; identifying crashes or hazards in real
+time and facilitating responders; and creating tools for actionable operational
+adjustments, whether by automation or human operator, such as traffic signal/
+intersection operations adjustments for incidents, transit or emergency responders, or
+on their side, transit scheduling adjustments or dynamic emergency vehicle routing.
+Extremely important although less complex, analytics for “app” users are a “new
+frontier”, both on the public side and how private partners are leveraging the
+information. With a diverse population of users, a “one-size-fits-all” approach cannot
+suffice. The user analyzer should be multi-dimensional with say, a vertical spectrum of
+user participation level and a horizontal level of user preferences. The more
+participation from a user, the more benefit they can obtain.
+Our combined system of sensing, urban analytics and open data creates a “synergy
+magnet” which will induce multi-partner and service breadth, and will be scalable up to
+grow with opportunities and needs.-
+City of Norfolk Page 17Vision
+ElementAlignment and Approach
+FIVE
+User-Focused
+Mobility
+Services and
+ChoicesOur approach will focus on the needs of all users, regardless of age, ability, ethnicity,
+race and income - in particular users with disabilities, and older users, require choices
+and alternative services and treatments. Technology and the coming Intelligent
+Community Platform will revolutionize accessibility choices. The Mobility app will have
+ultimate power and flexibility for users to exercise choice from the entire spectrum of
+options, whether based on real-time or historical information, or personal vs. shared
+mobility options. Users will be able to set their own preferences for their level of
+participation. Through strategic business partnering, the mobility service provider world
+will have ease of successfully deploying in Norfolk at its fingertips.
+A current and evolving example in Norfolk is the implementation of Smart parking
+meters downtown. The data platform connected to the meters opens the door for
+parking app vendors (we are currently using Passport) that can supply a host of user
+utility improvements, such as simplified payment, time expiration notifications,
+automated validation or discounts by businesses, and the locations of open spaces. The
+“larger” impact of such platforms is removing some of the “disutility” associated with
+patronizing downtown businesses, improve downtown’s vitality and success.
+SIX
+Urban Delivery
+and LogisticsTrucks create a challenge for efficient traffic signal operations due to their different size
+and acceleration characteristics. V2I infrastructure at the south entrance to VIT could
+improve intermodal operations at the port.
+The transportation information system contains within it the network travel time
+information that is needed to support everyday logistics, but also would include a
+service coordinated through the User and Trip Planner analyzers, and the Partner Portal
+to support consolidated delivery services. The City’s Economic Development
+Department would work with potential “vendors” to purchase or lease a suitably
+located piece of land for a storage/transfer site.
+We will seek to deploy logistics-driven solutions, which could include autonomous
+vehicles, at Virginia International Terminal to leverage all of the space available on the
+constrained site.
+SEVEN
+Strategic
+Business
+Models and
+Partnering
+OpportunitiesAs demonstrated in Section 7 and 13, the City leverages an extensive network of
+partners and stakeholders in identifying and developing business opportunities..
+Illustratively, the City and its partners will leverage a new $12M-funded Coastal
+Resiliency Laboratory and Accelerator Center to capture a portion of the new resilience
+market by connecting “smart city” and other resilience challenges with solutions and
+products. The Accelerator will also ensure that best practices and lessons learned get
+captured and disseminated within the region, nation and world.
+Business partnering opportunities leveraging the data platform will be facilitated by
+designing high utility and ease-of-use into the open data portal. The City has a robust
+and aggressive Economic Development Department constantly seeking and recruiting
+businesses and entrepreneurs into the City.
+The City offers prime downtown real estate at no cost for an entrepreneurial start-up
+organization called Hatch. Hatch offers a variety of tools and resources to help
+companies at almost any stage accomplish their goals. We create the ecosystem for
+entrepreneurs to thrive by building platforms, programs, events, and courses designed
+specifically for early stage and small businesses to pick up with ease and flourish.-
+City of Norfolk Page 18Vision
+ElementAlignment and Approach
+EIGHT
+Smart Grid, and
+Electric Vehicles
+(EVs)Dominion Virginia Power is actively deploying smartgrid technology systemwide.
+The City’s likely contribution to this element would come in the form of EV charging
+stations and “park-n-charge” sites. Driving on Norfolk City streets rarely involves more
+than 8 miles, or 20 minutes, of travel. The City has recently collaborated with Virginia
+Clean Cities to install three charging stations (2 in downtown) on City property. Tesla
+has also recently installed a charging station in the City.
+With ownership of 20,000 downtown parking garage spaces, the City is extremely well-
+positioned to move into the “park-n-charge” business and proposes to do so. The City
+would also seek to facilitate similar installations at key private parking facilities and
+employers, and at Tide park-n-ride lots. The City would determine ways to leverage the
+increased power supply infrastructure needed in garages, for other uses, and use
+smartgrid technology to manage peak loading, perhaps even employ some form of
+reverse generation.
+NINE
+Connected,
+Involved
+CitizensAs part of this proposal, the City and its partners will develop a customizable app
+toward an “Intelligent Community Platform”, that will provide citizens, city
+departments, businesses, military and other organization access to targeted and
+actionable information that enhances their ability to make smart decisions that allow
+them to survive, adapt and grow in the face of the city’s challenges. The app will help
+avoid congestion; improve safety and mobility, route around and otherwise mitigate the
+impacts of flooded areas; optimize business operations, and connect vulnerable
+residents to services in times of disruption. The City will leverage its vast network of
+non-profit, public and private partnerships and build upon existing community
+engagement campaigns and crowdsourcing efforts to make citizens active participants
+in the designing community of the future, asking them to be aware, involved and take a
+smart action in a more risky coastal environment.
+TEN
+Architecture and
+StandardsPart of our Vision is to produce as much value as possible, both for Norfolk and the
+Country. Our approach described in Section 10, and the qualifications of our team,
+demonstrates our capabilities and commitment to this element.
+ELEVEN
+Low-Cost,
+Efficient,
+Secure, and
+Resilient
+Information and
+Communication
+TechnologyOur vision is to move beyond traffic to an integrated next -generation digital
+infrastructure that can deliver solutions and services to its residents. The City’s existing
+fiber-optic-plant based Wide Area Network and ATMS Network, with ongoing
+expansions and upgrades, aligns well with this vision element and serves as the
+backbone of our system. The City will make its Smart City services and information
+accessible online at any time, from anywhere. The information will be accessed by a
+website or application with real-time updates from the transportation and Smart City
+network. Data will be presented through open web services to appropriate users in
+secure, PII protected manner. The City’s digital infrastructure will not only connect to
+what resides in the City’s data center, but also extended through the “internet of
+things” to residents’ smart phones, wearable devices, cars, tablets, and PCs, etc. The
+City’s digital infrastructure will be upgraded and expanded to increase its capacity for
+public Wi-Fi, internet service to residents and businesses, sensors, analytics, security,
+storage, and computing.
+Operations that were in silos will now be connected to a centralized command and-
+City of Norfolk Page 19Vision
+ElementAlignment and Approach
+Low-Cost,
+Efficient,
+Secure, and
+Resilient
+Information and
+Communication
+Technologycontrol center, with communications and informati on flowing seamlessly across the
+system through a government convergence platform and robust fiber optic network.
+This will make possible multi-agency efforts, such as emergency notification and
+dispatch services via departments of health, transportation, and safety. A security plan
+will also be extended to fully cover all smart services used by the City, taking into
+account all perimeter access points to ensure proper controls and privacy are
+maintained. The City will also develop big data openness strategy to mine information
+collected to make better data driven decisions, optimize operations, ensure effective
+citizen engagement, and cross-government collaboration.
+We will develop customized traffic congestion alert services, flooded roadway warning
+systems, and critical infrastructure monitoring. Citizens can express preferences for
+specific locations and delivery methods, such as receiving flooded road and parking
+warnings or congestion updates for their specific frequent routes via push notifications,
+text, and email, etc. Agencies can prioritize users, such as emergency vehicles or critical
+infrastructure equipment. Targeted communications campaigns can be developed to
+different categories of residents, driven by their work and personal lifestyles, to
+increase smart services uptake and facilitate forums for continuous resident
+engagement in services improvement.
+We will conduct sophisticated data collection and analytics to enable The City to
+develop predictive insights for anticipatory actions. Data collection and analytics will
+allow the City during “blue skies” to better understand and model the impacts of sea-
+level rise and flooding on its transportation and critical infrastructure, and the impact it
+has on the citizens. This could also involve an analytics program that evaluates current
+road and transit patterns to predict future usage, guiding informed decisions for
+maintenance and expansion projects to City officials.
+TWELVE
+Smart
+Land UseIncenting, facilitating and investing in business and land development, and livability -
+supporting services and infrastructure, will create the future of Norfolk as a Smart City,
+with a focus on people and accessibility. The recent past has seen a tremendous
+positive upswing in attracting higher-density development in walkable and transit-
+oriented areas, and opportunities for continuing this trend are aggressively pursued in
+Norfolk’s planning and economic development efforts every day (such as Vision 2100,
+Naval Station Norfolk Transit Extension Study, Military Circle Plan).
+By having a better understanding of where the worst flooding occurs, we can
+intelligently plan our land use strategies to make these areas green space or
+infrastructure. The areas can become stormwater management zones to decrease our
+runoff and pollution into the Chesapeake Bay and improve groundwater recharge.-
+City of Norfolk Page 206Risks and Mitigation
+City of Norfolk’s approach to assuring capacity and risk mitigations for its project relies on a rich
+partner network that incorporates redundancy. The City will continuously identify additional
+entities with capacity in critical areas and surface potential risks, and adjust as necessary.
+In general, security challenges are magnified when dealing with Big Data due to its velocity,
+volume, and variability. Many security issues are identified, such secure computations in
+distributed programming frameworks, security best practices for non-relational data stores,
+secure data storage and transactions logs, end-point I input validation/filtering, real-time
+security/compliance monitoring, scalable privacy-preserving data mining and analytics (“Big
+Brother”), cryptographically enforced access control and secure communication, granular access
+control, granular audits, data provenance. Much research is being dedicated to these issues.
+All of these issues are important for any Big Data collecting and processing activity but it quickly
+becomes overwhelming to consider all of them at once. Hence, we will apply a separation of
+concern principle by relying on the Cloud Services to handle security once the data are “in the
+cloud”. However, the end-point input validation/filtering, scalable privacy-preserving data mining
+and analytics (“Big Brother”), cryptographically enforced access control and secure
+communication remain of concern and attention.
+We propose to work closely with the Cloud services to define access control and data priority for
+the possibility of (auto) tiered storage with different security policies. In addition we will seek to
+partner with providers of input filtering technologies that will ensure the validity of inputs and
+check for untrusted inputs sources in the multi-device environments, such as driver cell phones.
+7Partners, Stakeholders and Governance Processes
+The City of Norfolk has strong and long-standing relationships, that we consider partnerships,
+with all of the public agencies that will be key players and stakeholders on this project. We also
+have well-established relationships with our key university research partner, Old Dominion
+University’s Transportation Research Institute, Norfolk Southern, Kimley-Horn, Siemens and
+Midnight Status. We are excited to engage Metropia and Qualcomm, rounding out a core team
+with an array of international expertise ideally suited for this project. Our Team:
+Transportation Institute
+-
+City of Norfolk Page 21The portfolio of the Mobility Division includes signal and control technology for
+rail-based passenger and freight traffic. Siemens RailFusion system will soon be deployed in
+Norfolk improving rail/roadway operations. Electrification solutions for rail and road traffic. Road
+traffic control and information systems, parking space management as well as electronic
+payment and toll systems for urban and interurban traffic. Consulting, planning, financing,
+construction and operation of turnkey mobility systems. Integrated mobility solutions for
+intermodal networking of different traffic systems.
+We are a group of transportation engineers, network modelers and data
+scientists, all with solid academic backgrounds, practical experience, and a
+passion for solving urban traffic congestion problems with creative, cutting-edge solutions. We
+develop and integrate high-performance and mobile computing technologies to produce apps
+and backend analytics capabilities that help both users (commuters) and entire systems (cities)
+during normal operations, pre-planned special events, or unexpected, extraordinary
+circumstances.
+From reducing energy consumption, to cutting operational costs, to enhancing
+public safety, we’re using our wireless expertise to transform infrastructure and
+address the complex challenges that smart cities are facing. True efficiency is the result of
+interoperability that allows data to flow freely across various technologies within city functions
+such as lighting, transportation and infrastructure – enabling intelligent communication, while
+maintaining security protocols. All of our citywide solutions are designed with the ability to scale
+— meaning entire cities can be seamlessly connected no matter their needs today, or tomorrow.
+Kimley-Horn (KHA) provides the team with ITS and smart transportation from
+planning to design to software integration support activities. KHA’s civil and
+electrical engineers understand the built environment coupled with software developers that
+can translate that infrastructure/data into an intuitive interface, and mine the databases for
+additional ways to enhance the way constituents get around. KHA is also apprised of recent
+developments in the Automated and Connected Vehicle arenas, and is developing a research
+roadmap on behalf of AASHTO and NCHRP related to planning and implementing Automated and
+Connected Vehicle technologies (NCHRP 20-24),an integral part of Smart-Cities initiatives.
+Midnight Status isa Norfolk-based software development company with over
+20 years of experience. Its team members have created software for The
+National Highway Institute, NATO, and the Marine Corps. Midnight Status has locally
+developed and deployed ""Tunnel Traffic"", providing a simple smartphone interface for Hampton
+Roads drivers to quickly see if any of the area’s four tunnels are blocked or congested.
+Demonstration Governance
+Governance processes involving demonstration projects require the knowledge to establish
+proper procedures following the “rules of experimental conduct”, and the ability to strategically
+-
+City of Norfolk Page 22engage in inspection/observation throughout the process. It is desired that the “governing party”
+have at least some level of independency from the “demonstrating party”. Our team provides
+numerous entities possessing this knowledge, particularly our University Research unit partners.
+We propose that our colleagues at the HRTPO serve as the governance lead. They will have little
+direct roles in the concept developments and implementation, and they are experienced in the
+role of operating as independent technical staff from the region’s cities, to remain regionally
+objective. Their staff is already engaged frequently in the development of regional data
+collection, evaluation and reporting, for example, the annual congestion report developed from
+INRIX travel time data. VDOT has a somewhat similar “independency” relative to the City and can
+support that role.
+Our team would develop demonstration plans and processes initially, and submit them for
+review and comment to USDOT, VDOT and HRTPO. Once the plans are finalized, any needs for
+additional staff, maintaining independence, could be provided through on-call consultant
+contracts, or by soliciting another University unit.
+The main point is that given the breadth and depth of our team and partners, there will be
+ample opportunities for developing such processes over what could be multiple independent
+demonstration/testing exercises.
+8Existing Transportation Infrastructure
+a)Arterial Miles – 189
+b)Freeway Miles – 22plus a 7 mile reversible HOV lane on I-64
+c)Transit Services
+Norfolk provides a robust family of transit
+services including 21 local routes with
+complete coverage of Norfolk’s arterial
+system, 6 express routes, paratransit, a ferry
+service connection to Portsmouth, and the
+7.4 mile “Tide” light-rail line. A new
+Downtown Transit
+Center has just
+opened. Most
+buses are
+equipped with AVL
+tracking devices.
+d)Shared Use Mobility Services
+The City is pursuing a joint effort with
+neighboring Portsmouth to implement a
+bike-share service, targeted at 30 – 40 stations. Uber and Lyft are both operating locally.
+-
+City of Norfolk Page 23e)Information and Communication Technology
+The City, along with our shared services partner Cox Communications, has a robust 10GB
+Institutional Network (I-NET) fiber optic ring with 13 nodes that supports City facilities. We are
+also in our first year of upgrading our I-NET infrastructure to 100GB. The wide area/metro
+network has multiple connection methods, including owned/leased T1 services, Hybrid Fiber
+Copper/Transparent LAN Services (HFC/TLS), Fast Ethernet and Gigabit Ethernet services at
+various shaped bandwidths, and an OC-192 I-Net.
+The City’s Advanced Traffic Management System (ATMS) communications platform is a fiber-
+optic network with a topology of redundant distribution rings emanating from Sonet nodes
+(replaced with Packet-Optical Transport Systems this year) arranged on a redundant backbone
+ring (over 100 miles of fiber cabling). We are upgrading all connected signals with 8-port Cisco
+Ethernet switches – 40 successful installations with 120 more deployments this year.
+f)Intelligent Transportation Systems
+The City operates 316 signalized intersections, 275 (with continuing expansion) in its ATMS
+environment, which includes:, type 170 controllers, 90% Type 170 cabinets, 23 Cohu traffic
+monitoring cameras, 16 signals integrated with LRT operations and signaling, QuicNet central
+management software, several Sensys vehicle counter installations, and 20 lane-use *-blankout
+signs. $3 million in funding has been allocated for a complete upgrade of the control platform to
+ATC controllers with new local and system software.
+Norfolk’s Traffic Management Center (TMC) is located in City Hall adjacent to Transportation
+Division staff offices. The center is in the midst of upgrades to its video wall and server/switch
+room along with a conversion of all video to IP. Video handling and camera control will be a
+state-of-the-art system later this year, including the sharing of the City’s camera images on
+VDOT’s 511 website. We are connected to VDOT’s regional Transportation Operations Center,
+and will be to Elizabeth River Crossings’ new Operations Center when the tunnel upgrades and
+expansion project is completed in 2017.
+There are several Rapid Rectangular Flashing Beacon signals, some with active pedestrian
+detection. The city is upgrading permissive left-turn phasing to 4-section FYA heads.
+g)Smartgrid System
+Three Electric Vehicle charging stations have recently been installed at City parking facilities.
+Tesla has installed a charging station near I-64 in the eastern part of the city.
+9Data Management and Sharing
+Integrating the new level of transportation data will improve capabilities in some existing areas
+of fleet or emergency management, simply by providing more accurate travel time prediction.
+Routing first responders around an unknown road blockage could save a life. For other
+possibilities a potentially vast array of utilities may be realized by “cross-pollenation”, replacing-
+City of Norfolk Page 24some sources of frustration associated with transportation, with comfort and convenience. The
+mere existence of smartphones allows people to “gain time”, but improved traveler safety and
+predictability, plus “active” information to users, has the potential for changing behaviors, and
+broadening a person’s “reach” to jobs, services, shopping and recreation – really anything.
+Imagine stopping to have a cup of coffee with a friend you haven’t seen in a long time, because
+the two of you were randomly and coincidentally passing near each other one day, and your
+phone lets you know. Imagine you and your child’s day care being alerted simultaneously that
+you’re going to be late, and without doing anything you get a message from them that a
+neighbor with known permission has agreed to pick your child up so you don’t have to pay a
+penalty, and the child gets to play with a friend while you are delayed. The possibilities and the
+potential partners seem almost endless.
+Recently, crowdsourcing and constant connectivity enabled by mobile sensing and computing
+platforms (e.g., smartphones) spurred numerous remarkable innovations in many sectors of the
+economy including the transportation sector. Companies like Uber and Lyft have leveraged the
+mobile-phone platforms and provided new alternatives for taxi and ridesharing services that
+disrupted the traditional business models. Metropia (a partner on Norfolk’s team) uses an app to
+incentivize commuters for choosing departure times, routes, and modes so that traffic
+congestion is reduced. All these applications and systems rely on constant communication and
+mobile computing technologies to deliver the intended services. In particular, they rely on
+smartphones which function as a key enabler and facilitate user interactions, user input, sensing,
+data collection, computing, and communications. In 2015, 189.7 million people in the U.S.
+owned smartphones (76.8 percent mobile market penetration). Given the continued increase in
+smartphone market-penetration, the Norfolk team plans to develop various applications reliant
+on mobile computing and sensing enabled by consumer electronics to address the mobility and
+accessibility needs in the region. The City envisions building the necessary institutional and
+technological components to create an environment where pervasive sensing and computing
+play a central role to improve mobility and accessibility.
+The City currently collects, stores, and maintains a variety of data related to this Smart City
+Challenge. In addition to vehicle tracking of our public safety and fleet vehicles, we also have our
+city facilities connected to building management systems to control energy consumption in real-
+time. Outlined below are several key methods we currently collect data.
+Verizon NetworkFleet: GPS driven fleet trafficking system on all City waste management trucks
+and street sweepers. Onboard vehicle diagnostics, GPS tracking, and roadside assistance are
+some of the features this system is used for.
+Intergraph CAD: The City’s computer-aided dispatch (CAD) system, we can quickly answer calls,
+create and update incident details, and manage multiple resources in real time. This system also
+gives us the ability to track and route individual responders using mobile devices allows
+dispatchers to view each person’s location, permitting real-time risk assessment.-
+City of Norfolk Page 25Smart Parking Meter deployment will be completed by this Spring, connected to a data platform
+usable for vendor parking payment and wayfinding applications.
+Building Management Systems: The City currently operates three building management systems
+developed by industry leaders including; Siemens and Johnson Controls.
+311/Citizen Reporting Applications: The city currently has two in-house developed applications
+to manage citizen requests and storm related events. Our Norfolk Cares Center (311 Call Center)
+can take calls, emails, and requests submitted through a smart phone app. This data is cataloged
+and tracked through the life cycle of the request using a custom developed application. STORM
+(System to Track Organize and Map) is a custom in-house application that is also available to
+residents as a mobile browser-based application. This application is used to report weather
+related issues, for example; flooded streets, downed trees, blocked roads, and downed power
+lines to name a few.
+The City also works closely with regional partners and stakeholders on collecting and maintaining
+import transportation related data and geographic information systems (GIS) data. The City is
+currently working with ODU, HRPDC, HRSD, and other local governments on a grant proposal to
+develop a regional GIS that can serve as central repository for accessing, downloading, viewing,
+and analyzing geospatial related data. The local Code for America brigade also has developed
+applications with the City, and an HRT bus/light rail finding application. This application gives
+real-time information about HRT routes and schedules based on the user’s location information
+from their smartphone.
+Local and remote storage and processing facilities: To store vast amounts of data being collected
+in the proposed activities instead of building in-house data centers, we propose to leverage data-
+storage facilities at ODU for the dynamic data-driven processing and, eventually, remote web
+storage, such as Amazon S3. Specifically, ODU has a 6-node cluster that runs Big Data processing
+software including Hadoop and distributed file storage format HDF5. Specifically, each node has
+two Intel Xeon E5-2670v2 processors (20 cores each @2.5GHz), 128GB of main memory, and
+three 440GB SSD disks. The nodes are interconnected with Infiniband QDR HBA.
+Data management software: To support data analytics and management, iRODS, which is an
+open-source data management software governed by the iRODS concorsium, maybe employed.
+Its services run on a variety platforms and have a high degree of scalability and availability.
+High-performance network facilities: ODU is a partner in the Mid-Atlantic Research
+Infrastructure Alliance (MARIA) which increases campus connections to the Internet2 Network to
+100 gigabits per second (100G). This network infrastructure may greatly facilitate processing of
+the collected data since MARIA connects many Virginia university campuses and feeds into a
+broader interconnection network “Southern Crossroads” (SoX) a non-profit founded by Georgia
+Tech and partners and is recognized as one the highest-bandwidth Internet gateways in the
+South.-
+City of Norfolk Page 26Through Norfolk’s big data platform, each stakeholder has the opportunity to use their preferred
+analytics tools, through open standard access methods, to glean insights from the data and
+suggest further operational improvements. Trusted information infuses processes bring people,
+process and information to bear on further insights and continuous improvement to autonomy.
+10Standards and Architectures
+The City of Norfolk has been engaged in the deployment of ITS/ATMS infrastructure on a
+consistent basis with using Federal funding for over a decade, whereby requiring compliance
+with financial, environmental, and procurement guidelines. The City has been, and continues to
+be, intricately involved in all regional ITS planning and architecture development with local
+agencies and VDOT, including participation and leadership roles with the Hampton Roads
+Transportation Operations subcommittee of the HRTPO. The City has an existing fiber optic
+connection to the VDOT, and plans to integrate with a private bridge-tunnel facility in the near
+future, to enable further regional collaboration.
+Our project teammate Kimley-Horn with whom we have a long-standing relationship, brings
+expertise in software development, system design, and integration support. Kimley-Horn is
+developing a research roadmap on behalf of AASHTO and NCHRP related to planning and
+implementing Automated and Connected Vehicle technologies (NCHRP 20-24), which will be an
+integral part of Smart-Cities initiatives. Kimley-Horn’s experience includes developing Concepts
+of Operations (Eastern Idaho Rural IntelliDrive) and Guidebooks (TMC Connected Vehicles for the
+UVA Pooled Fund Study) for these upcoming technologies, developing software interfaces
+(Dynamic Ridesharing product development support for Axiom xCell in San Diego), software
+integration with Siemens and multi-vendor signal controller environment, as well as working
+with the USDOT connected-vehicles safety pilot where Kimley-Horn’s KITS software monitors
+signals in Ann Arbor that broadcast SPaT data to connected vehicles. Kimley-Horn is particularly
+beneficial to Norfolk for the Smart-Cities program by being able to meld both hardware and
+software design and implementation, coupled with technical operational and maintenance
+support.
+For a program of this kind, it will be important to document lessons learned. Under a recent
+effort assisting the City of Norfolk with migrating from their serial communications network to an
+advanced Ethernet platform, Kimley-Horn developed a testbed in the City’s TOC network room,
+prepared a test plan, secured network hardware from multiple vendors, and implemented the
+test strategy and compiled a full document of the procedures, outcomes, and recommendations
+for subsequent deployments. The lessons learned from this testbed, and the first pilot field
+deployment were documented and used for conversions of subsequent field communication
+channels to Ethernet.
+11Measurable Goals
+When we think about Norfolk’s primary vision and goals, they are predominately for long-term
+success. In the complex world of urban activity and transportation it is very difficult to isolate-
+City of Norfolk Page 27multimodal performance metrics from which one can glean success or failure over that time
+frame. The important concept of a “controlled experiment” is almost unachievable. Defaulting to
+“easy-to-collect” metrics that are not comprehensive, can’t discern multivariable contributions,
+and only measure short-term changes, to force the issue, can actually have damaging effects.
+But, one of the great gains in this new data paradigm is a comprehensive data picture that has
+not previously existed, therefore addressing some of those issues. Our approach is going to be
+thoughtful, use proper experimental design techniques, and importantly, promote learning.
+One of the goals of the Transportation Data System is to archive a robust recurring knowledge
+state in the Archived Intelligence database. The design of its structure, most importantly to serve
+the needs of analytics based on empirical data, will equally well serve the needs of the most
+robust performance monitoring system ever devised. However, we can even do one better – we
+can create intelligent self-monitoring tools within the analyzers, which can report on activities
+that would have some expectation of a possible impact, and in some cases have automated
+retrieval and storage of pertinent data sets following the actions.
+Metrics will include: Travel Time and Reliability (all user populations), Network density,
+Effectiveness of information – evaluating choices, Transit ridership and service metrics, Route
+diversion frequency and utility, User satisfaction (app will facilitate surveys), Business/
+development trends, cost-effectiveness, and crashes. With respect to crash data, it is
+noteworthy that our proposed systems will begin to greatly elevate data in support of safety
+analysis – a new paradigm of crash history assessment will be possible.
+An important point project-wise is that comparable “before” data will be collected in the 2ndand
+3rdyears of the project so that demonstration data (and beyond) will be meaningful.
+12Capacity for Implementation
+Norfolk has been in the forefront of technology implementation and is recognized as one of the
+national leaders in the field of resilience. Situated in the heart of the defense corridor, Norfolk
+has been partnering with key defense contractors and other technology leaders to transform the
+city into a smart city, serving its large diverse population and improving the quality of life for
+vulnerable residents. Norfolk has a long record of successfully implementing a variety of projects
+similar in scale, scope and complexity to those proposed in this application. Illustratively, in the
+past three years alone, Public Works has managed $267 million in infrastructure projects,
+including construction of the flagship Slover Library that was recognized as one of the most
+technologically advanced libraries in the U.S. Similarly, in the past two years alone, the City’s IT
+department developed and launched in-house more than 10 software application, regularly
+supports and operates over 100 of them and scaled up its city-wide network, all in partnership
+and coordination with local private and non-profit partners and stakeholders. The release and
+implementation of our holistic Resilience Strategy, hire of Chief Resilience Officer and Chief
+Marketing Officer and institutionalization of a Resilience Office that serves as a connector and
+aligner of efforts and opportunities within the City, and between the City departments and-
+City of Norfolk Page 28external partners, demonstrates Norfolk’s overall capacity and executive commitment to take on
+the proposed project.
+Importantly, the City’s internal capacity to embark on projects of this magnitude, complexity and
+level of innovation is significantly enhanced by proven partnerships with an array of cross-
+disciplinary, public, private and non-profit stakeholders which will work with the City to
+implement the proposed projects and provide necessary redundancy to mitigate potential risks
+(See Section 7 Partners). Furthermore, the partnerships for this proposal will build on and will
+leverage a regional public-private coalition established around the HUD’s National Disaster
+Resilience Competition application development and Norfolk’s concurrent Resilience Strategy
+development process. Both efforts brought together nearly 100 multiple state and federal
+agencies (including the Navy and Commonwealth’s agencies), local governments, institutions of
+higher education, regional planning organizations, community groups and private sector
+partners to develop and now implement innovative resilience projects at the local level.
+13Leverage Opportunities
+While other cities benefit from the head start in the field of autonomous vehicles, electric
+vehicles, shared economy services or vehicles to vehicles/vehicles to infrastructure technology,
+Norfolk has already made significant investments in designing coastal community of the future -
+a city that can survive and thrive in an environment of rising sea level and uses the opportunity
+to address environmental changes as a catalyst for diversifying the city’s economic base and
+connecting individuals through new networks. Because cities are systems of systems, continually
+interacting, influencing and impacting one another, policies and actions designed to influence
+one system impact, for better or worse, others. Our approach to resilience-building embraces
+this interaction recognizing that investments in any system creates opportunity for returns in
+improvements in multiple systems. To address our vulnerabilities and challenges in ways that
+make the city and broader region truly smart, resilient city, the work proposed in this application
+will simultaneously strengthen our physical, social and economic resilience while benefiting from
+the existing partner networks and current and committed investments in building the coastal
+community of the future.
+For instance, in partnership with the Navy, U.S. Army Corps of Engineers, Port of Virginia, The
+Rockefeller Foundation, White House-sponsored Intergovernmental Pilot Project led by Old
+Dominion University, local community organizations and planning district commissions, Norfolk
+is launching a series of holistic studies and projects to redesign land use by watershed to more
+innovatively use green, blue and grey infrastructure to manage recurrent flooding and sea level
+rise to ensure that the city’s and region’s residents and key economic assets that rely on
+unimpeded access and reliable transportation networks can continue to thrive on the coast.
+Similarly, Norfolk has been heavily investing in live-work-play-stay placemaking, “attract and
+retain” projects and app tools as part of its strategy to design the economically, socially and
+physically more connected coastal community of the future that can adapt to and take
+advantage of changing conditions. These investments encourage people and businesses to move-
+City of Norfolk Page 29“beyond traffic” by living closer to where they work instead of putting pressure on the City’s
+limited resources to invest in costly transportation infrastructure not always suitable for coastal
+communities facing changing conditions associated with flooding and sea level rise. Current
+overhaul of zoning code, investments in light rail and its future extension through flood-free
+areas, new bike lines, bike share program, complete street policy, investments in shared work
+spaces, extension of fiber network, innovation centers, and access to early stage capital for
+entrepreneurs to incubate new ideas are just a few examples of these efforts that will be
+leveraged for the proposed project.
+Illustratively, the proposed project will benefit from the recently awarded $120 million National
+Disaster Resilience Competition grant to accelerate Norfolk’s effort to design the coastal
+community of the future. Norfolk in partnership with the Commonwealth of Virginia and a
+consortium of private, public and non-profit partners, including Old Dominion University, will use
+$5M of these funds to establish a Resilience Lab/Accelerator to serve as a connector between
+“smart city” problems, solutions, and market for the region’s resilience challenges – with
+transportation-related challenges being a major area of focus. Norfolk will also leverage
+connectivity-enhancing investments including, over $7M in federal funds to study corridors for
+the Naval Base LRT extension, $175M for the Intermodal Connector project, up to $750K to
+construct a bicycle loop, up to $500K to improve pedestrian crossings, over $3 million to extend
+broadband/fire optic, and over $55M in wealth of research in Intelligent Transportation Systems
+(ITSs), connected vehicles, big data, multi-modal transportation operations and planning,
+unmanned aerial vehicles, and other related areas to improve the safety and mobility of
+transportation systems provided by the partnering universities – Old Dominion’s Transportation
+Research Institute and Virginia Tech’s Transportation Institute.
+14Conclusion
+Norfolk would be an excellent choice for the “Beyond Traffic: The Smart City Challenge” grant.
+It is critical that the funding serve to advance the state of research, testing and practice in key
+technology areas such as automated and connected vehicles, and sensing. We would provide all
+of the resources necessary with our team, and we have ideal, challenging test bed opportunities.
+Norfolk has challenges both long and short term that it intends to address with the funding. The
+outstanding low-cost approaches and tools that it would develop for meaningful short-term
+impact would be designed for easy transferability to other cities.
+“Addressing climate change” takes on greater meaning in Norfolk, a city threatened by sea-level
+rise, a member of 100 Resilient Cities, and home to a nationally critical military presence. The
+benefits to be realized here are larger in magnitude and scope.
+Norfolk is extremely committed to developing coastal resiliency strategies, which must involve
+transportation. It is not a choice, we must adapt. Our resolve will not be swayed."	city norfolk response proposal usdot beyond traffic smart city challenge grant table contents city challenges vision city characteristics city characteristics preliminary site map holistic approach usdot vision elements risks mitigation partners stakeholders governance processes existing transportation infrastructure data management sharing standards architectures measurable goals capacity implementation leverage opportunities conclusion city norfolk page city challenges vision promise come advance transportation afford vehicle technology astounding change vehicle technology alone improve safety mobility city wait idly continuous course infrastructure operational design improvement way change help facilitate integration new vision norfolk innovative yet thoughtful target bound rationality vision project well facilitate specific norfolk supportive outcome strongly support national research development believe make stride nation norfolk coastal city bless extensive waterfront temperate climate beautiful historic neighborhood rich history tremendous diversity hampton roads elizabeth river provide good year round harbor east coast world class resource drive force community almost year support world large naval base several large commercial port blessing addition constrain old urban core city region also source major challenge city challenge norfolk escape relationship atlantic ocean chesapeake bay hampton roads elizabeth river project sea level rise resiliency challenge bring three expressway tunnel interstate drawbridge grade overpass railroad crossing light rail transit local express bus ferry service two interstate continuous flow intersection challenging transportation system well detail city transportation system wide range aggressive resiliency initiative provide sections almost without exception ask people live work norfolk like least one top two answer would traffic congestion infer delay safety concern want change well good even seek change issue emerge dramatically impact city way life simple reduce traffic congestion sound vision require context rest upon foundation critical principle important city many first rich city fact somewhat hamper large proportion federal state land provide local tax revenue choice spending must pragmatic target toward truly meaningful local benefit solution expensive maintain operate leverage private cross needs support maximize benefit public cost second planning focus vision major city planning initiative must begin face stcentury challenge historic low lie coastal city robust test platform city norfolk page planning resiliency transform norfolk even far toward great live work play city maintain support state nation economy security derive harbor know transportation means people urban life end city future address safety accessibility sustainability support allmode accessibility third live world rapidly change technology change demographic must serve old population adjust young generation live work way past generation need build tool adaptable agile short want city smart want approach smart norfolks vision also influence different relationship climate change may typical city road network seriously impact sea level rise learn adapt survive must thrive vision planning expenditure must focus long term lasting success quick fix population decline suburb fairly typical core city latter thcentury norfolks population rebound century small part due impressive array city private redevelopment investment continue substantial land ripe mixed use redevelopment pedestrian orient access bus light rail transit norfolk approach reduce oil reliance carbon footprint incent shift regional population growth back core renew reliance pedestrian bicycle transit travel result reduction annual vmt million accord smart growth analysis conduct hampton roads transportation planning organization hrtpo addition norfolk continue embark aggressive flooding prevention mitigation plan see section detail must deal reality manage system keep resident visitor safe sufficiently mobile particularly essential service periodic flood event unavoidable couple reliability issue face region due limited connectivity water crossing gain address non recurring congestion wit hrtpo compile national statistic similar sized city find region fare poorly travel time reliability measure far predominantly account comparatively high congestion ranking vision address challenges mobility climate change norfolk ultimately implementation vision following outcome safer multimodal travel result action network system level street conflict facilitate smart growth mode temporal shift trip reduction overall reduction regional vehicle miles travel greenhouse gas emission improve travel reliability key area address majority congestion barrier synergy amongst urban core city resiliency issue periodic flooding improved accessibility job good service social life mitigate negative aspect urban travel system management information smart land use digital accessibility city norfolk page critical foundational principle special trait mind norfolk propose major smart city project effort three area support interrelate fourth robust information management system approach funding address norfolk usdot vision elements information particular provide section key project area one develop norfolk intelligent mobility app intelligent sensing easy receive process actionable information traveler order magnitude current practice build upon great work partner primary goal include mode shift route time shift supportive information advance concept low cost system datum acquisition exist leveraged resource integrate intermodal transit vehicle monitoring traffic management function leverage tool integrate public private service waste time expand intelligent community platform service platform evolve key project area two connected automated vehicles development testing support norfolk actively expand upgrade atms infrastructure allow easy installation relate device real life issue testing evaluation urbanized arterial happen nationally time frame city provide outstanding test environment support local international expert city staff bring important perspective traffic signal operator maintainer enhance concept troubleshoot testing design expand connect concept user vehicle broad vehicle spectrum adaptation use dsrc technology smartphone full proposal elaborate collaborative support approach consistent current state research one certainty know approach must include change management state practice undoubtedly evolve proceed detail system propose test bed contain section key project area three develop active eco traffic operations management tools systems focus first high impact strategy critical location subject extreme incident induce stress impassable road innovative flexible capacity enhance intersection operation include variable cycle phasing lane utilization strategy facilitate platform intelligent vehicle sensing partner system integration pedestrian bicyclist transit utility safety enhancement norfolk strong proponent ideal setting complete streets compact development central system rapid action signal management tool elevate tmc performance visualization active flow chart base decision support tool operator human operator still valuable tool box fulfillment key project area outcome safety mode time shift reliability accessibility city norfolk page heart powerful agile data acquisition information management system figure illustrate architecture propose transportation information decision support system short purpose system collect datum convert collection intelligence effectively put target information traveler possession support real time pre trip decision similarly use intelligence take target real time multimodal transportation system management action without human interaction monitor system performance time identification potential operational roadway improvement strategy architecture could describe three zone move left right first data acquisition zone point datum collection take widely varied form require variety interface module pass datum analytics zone series database processing analyze tool create intelligent use case information information carry various interface edge user zone combination portal application support human automated decision support structure lend logical compartmentalization object facilitate change adaptation detail would include structure document interface mechanism object important note regard concept analytic intelligent transportation world street remote system analytic street analytic subject progression connect vehicle world advanced traffic controller operation system address remote side create ability influence operational action advance event oppose demand action immediate locale time often safety relate handle street system several concept noteworthy data zone incorporate extremely important datum capture transportation partner emergency service business community well traveler much information less technical nature traffic datum require participant input actually come system edge smartphone app system rely heavily strong participation user smartphone similar device concern regard privacy security hesitation achieve sufficient participation benefit user secure system design include limit use personal datum system attract user tendency large system become black box every level system include reporting visualization dashboard type tool support quality assurance human decision making huge role agency operating systems play end user impact much take place within individual control system line application may change event also need improve upon operational action take also address regardless side reside crucial open data portal simply exist comprehensive user tool create facilitate likelihood third party interest success city norfolk page city norfolk page implemente smart cities challenge demonstration project importantly vision leverage grant funding outcome real value long short term norfolk entire country project lead transportation urban activity professional understand human factor concept accessibility promote smart urban living project type certain amount dividing conquering necessity program management technique team allow efficiently segment resource allocation also provide redundant capability key project area define well three zone information system structure fit nicely allocation expertise capacity entire duration project expect enhance arrangement move forward course project involve engaging contractor city regular basis fact citys practice highly capable consultant contractor call contract facilitate process program management plan build upon project management body knowledge pmbok kimley horn kha support city norfolk manage propose program base similar experience work expansive technology program include traffic adaptive signalization standard integration kits mobile cyclists austin similarly connected vehicle research planning nchrp program management plan consist manage scope requirement schedule financial quality resource communication project change risk procurement nature multifacete complex effort range team member partner manage resource communication project change risk key focus area addition city norfolk kha use certify project management professionals pmp within firm review project management plan throughout project sample schedule tasks year metropia install current system jump start app development datum collection odu lead cooperative effort usdot identify research opportunity city lead early agency partnership integration effort target location develop new operating strategy team partner research top video analytic currently available investigate share service year continue data system development particularly analytic develop eco operati platform concept install field device begin testing develop test site autonomous shuttle develop plan charge site deploy real time transit information system year complete data system app development continue testing implement autonomous shuttle pilot develop select eco traffic signal system utility year demonstration evaluation city norfolk page city characteristics norfolk independent mid size city commonwealth virginia locate core hampton roads metropolitan area consist nine city seven country accord census norfolks population total norfolk virginias second populous city serve historic urban financial cultural center hampton roads norfolk high population density region million people per square mile accord census twice population density city region represent population norfolks local urbanized area job job per square mile norfolk region employment center high job density region aside hub hampton roads region norfolk international city host globally nationally important asset norfolk region unique interdependency military region home large concentration defense facility world norfolk home naval station norfolk large naval complex world support readiness navys atlantic fleet drive economy employment norfolk region nearly quarter nation active duty military personnel station region particularly norfolk third naval ship building repair capacity house region also home third large commercial port east coast project grow norfolk specifically host port virginias norfolk international terminals one city region significant economic asset make norfolk integral node national global trade two stalwart industry provide foundation region economy department defense spending support total regional employment service member transition military annually hampton roads region provide city highly skilled labor force addition port virginia handle million ton cargo generate billion economic activity annually provide employment port relate industry virginians norfolks population diversity also set city apart region diversity one norfolks distinguishing attribute also one great challenge poverty level highly concentrated community difference even significant race age relative city hampton roads norfolk high level income inequality half norfolk resident low moderate income live poverty city norfolk page city characteristics existe public transportation system hampton roads transit norfolk supply robust network public transportation service include local express bus route para transit ferry light rail tide tide open extend virginia beach attract additional rider eis begin transit extension norfolk naval station city open million downtown transit center greatly enhance system efficiency connectivity tide access downtown service subsidize city see section environment conducive demonstrate propose strategy norfolk national leader field resilience fertile location innovative solution due history resilience demonstrate openness innovation ability transform change condition require norfolk select one first resilient city resilient cities network rockefeller foundation two year grant provide wealth resource include funding norfolks first world third chief resilience officer cro executive post support cross disciplinary team report directly city manager mayor access renowned international expert membership cohort global city similar challenge norfolk city london paris new york identify sharing institutionalize innovative resilience practice inspire support thousand city around world resilient cities define resilience ability individual community institution business system within city survive adapt grow matter chronic stress acute shock face norfolk define follow resilience challenge community engagement processflooding long term impact sea level rise need well connect vulnerable population among surround water mile shoreline low lie flat topography norfolks among nation vulnerable city coastal flooding city experience high relative rate sea level rise east coast norfolk region second new orleans large population risk sea level rise sea level continue rise severity storm surge extent flooding continue increase pose significant challenge resident mobility mission readiness military force operation water dependent industry norfolk view challenge opportunity transform resilient way show world thrive coast despite increase risk two year thorough research analysis stakeholder engagement norfolk launch integrate resilience strategy guide city successful coastal community future continue business water environment increase risk city intend use opportunity address environmental change catalyst diversify citys economic base connect individual new network short norfolk believe city norfolk page coastal community future city physically socially economically connect funding norfolks propose dot beyond traffic project support norfolk implement resilience strategy well collaboration city private public partner include naval station norfolk port virginia high stake norfolks success since norfolk experience challenge early solution norfolk nexus trade eastern third security center world help city coast improve resilience find innovative smart city solution focus reduce risk improve data drive decision coastal city replicable scalable city critical nation economy support coastal state nearly import export freight transport seaport population economic activity coastal region demonstrate leverage section proposal norfolk already begin create new city series funded leveraged initiative norfolk capacity pilot innovative strategy demonstrate january norfolk select third high national winner huds national disaster resilience competition ndrc secure million continue implement strategy design coastal community future capture resilience solution new resilience accelerator discuss section proposal usdot project would complement benefit bolster project partnership among many support initiative underway city region continuity committed leadership capacity carry demonstration norfolk successfully implement variety project similar scale scope complexity propose application past three year citys public works manage million infrastructure project include construction flagship slover library courts complex slover library among technologically advanced public library country state art courts facility leed certifiable leadership energy environmental design green building phase grand opening january house general district court circuit court phase underway estimate complete project manage city norfolk follow set standard initiate manage individual project methodology provide tool use project manager contain definition guideline template need deliver successful project methodology establish common ground project within organization standard methodology serve asset team member provide common format evaluate progress toward project goal objective deliverable methodology encourage top approach project management tie directly project life cycle phase project initiation process flow provide precise definition project common city norfolk page lexicon use project management framework activity map project class size enable tracking progress pre determined metric report purpose commitment integrate sharing economy city norfolk commit integrate sharing economy demonstrate development support follow initiative city develop bicycle pedestrian strategic plan date september initial implementation include bike sharing program uber lyft ride share service available use city hatch accelerator public private partnership startup accelerator program technology entrepreneur community program launch continue successful grow entrepreneurial talent retaining attract talent norfolk innovation research park collaboration odu city norfolk include business incubation accelerator service help company stage development achieve competitive advantage city norfolk launch coastal resiliency laboratory accelerator center serve nexus technological organizational innovation around community revitalization water management resilience measurement port naval station water sector business relate resilience challenge funding million allocate initiative dot smart city challenges grant enable leverage current sharing economy initiative expand include car sharing autonomous vehicle datum sharing datum sharing open opportunity business entrepreneur community follow area traffic management nuisance flooding notification avoidance reuse sharing service citizen peer peer service health platform address patient management innovation focus citizen rather city process commitment make open machine readable datum accessible discoverable usable public fuel entrepreneurship innovation city norfolks chief information officer develop open data policy open datum policy provide mechanism break citys departmental data silo expose important information public well facilitate community engagement transparency build trust city resident serve vast variety number datum source currently instal city move stationary sensor cctv camera couple user interface datum cell phone app text message well geo location constantly grow data amount may use optimize flood road management public transit plan predict congestion flooding impact road infrastructure traffic pattern beyond transportation impact city norfolk page data gather recur flooding may use validate flood prediction model develop virginia institute marine science vims help local entrepreneur gauge current customer need fine tune operation hour manage supply much investigation recently apply big data technique specific data set mention however research integration many datum set diverse datum type infer societal economic impact begin enable emerge public data storage user access facility well high capacity network infrastructure particular data gov portal contain variety data set many domain interest society one possibility supply transportation datum gather city norfolk similar meta data structure may combine exist data gov data set use big data method outcome data collection activity house data gov repository open public access city norfolk begin work socrata global leader software solution design exclusively digital government socratas cloud base software service saas solution support open data network provide datum drive innovation transform datum actionable insight measurable cost saving socratas open data api creative common license developer entrepreneur programmatically access citys datum consumption application development dataset socrata open datum platform call center request code enforcement cases building permits also city launch arcgis online open gis datum site share live authoritative gis datum citys open gis platform allow anyone explore visualize analyze share geospatial datum help solve real problem cost build use arcgis rest api citys open gis datum site provide simple open web interface host map service allow multiple output format consume include html hypertext markup language json javascript object notation image kmz compress kml keyhole markup language jsapi javascript name dataset group arcgis open datum platform include property information layer transportation planning zoning public safety preliminary site map figure contain several mapping image help describe feature relevant suitability norfolk provide excellent site usdot investment key feature illustrate main map include tunnel traffic signal tide lrt line railroad crossing propose test bed connected vehicle equipment description section locate site show include two large intermodal port facility virginia international terminal lamberts point coal terminal naval station norfolk old dominion university intermodal terminal serve norfolk southern rail line city norfolk page figure test bed figure preliminary site map tidal inundation tracking application norfolk city developed berkley bridge lift span typical railroad underpasswith titan resident view impact predict flooding event city norfolk page holistic approach usdot vision elements section discuss vision norfolks future key project area vision reflect holistic approach citys challenge next level must delve detailed objective strategy section provide elaboration address objective usdot funding strategy continue focus achieve impact keep cost low think beyond traffic always remain adaptable noteworthy every vision element inherent synergy fact necessary one achieve impact also opportunistic one cumulatively increase impact example datum sense alone accomplish nothing keep key principle seek leverage synergy multiply benefit keep cost low efficient balanced integration element critical achieve maximum success table address visions alignment usdot vision elements vision elementalignment approach one urban automationthe city numerous location sure benefit introduction community autonomous vehicle addition general private fleet absorption two college campus downtown resident visitor frequent attraction historic ghent district circulator lrt ferry patron propose information system highly supportive create intelligence platform autonomous vehicle demand base service transit connection role service could provide improve mobility less cost support infrastructure testing support address port navy partner could ideal application figure right illustrate potential lrt station feeder service connect neighborhood separate station highway norfolk staff contract resource could utilize application pavement marking roadway infrastructure support pilot testing two connected vehicles users norfolk team benefit build knowledge base accumulate year usdots connected vehicle test bed pilot deployment program around country southeast michigan pilot nyc much learn year range development system privacy protection standard broadcast spat signal phase timing message rsu receiving board equipment obe much yet develop test prove implement technology element thereof consider roadworthy provide environment showcase test connected vehicles concept technology norfolk team plan following city provide base infrastructure comprehensive real world arterial system test bed include continuous flow intersection single point arterial interchange railroad overpass adjacent signal three interstate interchange city norfolk page vision elementalignment approach connected vehicles users one interse ction tight diamond adjacent grade lrt crossing operate single controller sensys volume counter traffic monitoring camera within contiguous mile section lane roadway ethernet connect signal use type cabinet fiber channel throughout emanate comm field node locate traffic maintenance building corridor corridor identify figure rsu device instal location desire establish testing framework evaluate literature lesson learn test bed collaborate usdot team identify numerous application implement test field red light violation warning pedestrian warning andor detection spat message complex urban signal setting etc furthermore norfolk team coordinate signal controller system vendor econolite expedite implementation testing intelligent traffic signal systems sigs field datum integrate fuse datum traditional sensor optimize signal timing remote datum allow predict traffic pattern enable proactive signal timing reduce congestion improve transit service enhance overall intersection safety give dsrc equip vehicle yet common road norfolk team suggest work industry leader wireless communication qualcomm test implement alternative solution work qualcomm equip smartphone dsrc capability well safety mobility app user interface information provide user optimize minimize driver distraction install market dsrc test vehicle safety app cell phone install dsrc signal cabinet enable communication spat vehicle cell phone lastly holistic system norfolk team make relevant datum available cloud support application necessarily rely dsrc example emergency vehicle dsrc transmit location route destination vehicle path rsu send information cloud smartphone app immediate area would receive message exact detail evs route help vehicle pedestrian clear path safe passing team would expect advance state arena also create current improvement operation safety proximity signalize intersection three intelligent sensor base infrastructureconsistent state vision approach definitively design maximum impact reasonable life cycle cost norfolks vision smartphone generally mobile consumer device play central role sensing communication technology numerous motivate factor proliferation mobile device ever increase computing sensing communication capability ability rapid deployment ease software update current app store system iii ability collect large amount datum low cost ability collect travel datum across mode transportation potential extract rich traveler information gps city norfolk page vision elementalignment approach intelligent sensor base infrastructureand low energy inertial sensor accelerometer gyroscope compass within smartphone rich sensor datum beyond extract trajectory traveler possible detect mode travel see figure vehicle operating mode idle accelerate amount time spend within mode information currently exist large scale invaluable accurately estimate ghg emission furthermore relate datum link node transportation network system operator determine area inefficient operation high emission addition recent advancement chipset technology provide qualcomm partner norfolks team possible dedicate short range communication dsrc technology smartphone enable smartphone serve medium communication among vehicle pedestrian infrastructure support various safety mobility application streaming video traffic monitoring camera already powerful tool operator arsenal currently underutilize resource usually provide direct value time propose multi purpose camera system use visible thermal imaging ptz detection degree camera powerful video analytic platform leverage already support system data production monster note relatively inexpensive camera system readily maintainable exist traffic signal maintenance labor force system could produce addition standard traffic datum real time historical movement datum entire user cross section route datum security road surface weather condition norfolk effort establish system wide high capacity ethernet platform support data transmission requirement approach nature system also less black box since performance observe time enhance troubleshooting city plan develop comprehensive set tool estimate water inundation level due flood crowdsource image video surveillance image available network gauge sensor custom smartphone app develop enable citizen collect upload inundation image datum real time sensing address city norfolk page vision elementalignment approach four urban analyticsthis element involve convert capture datum variety product distinction must three take action provide actionable intelligence user operating system provide useful information third party also provide benefit help support system figure illustrate need variety analyzer different function move datum source product one unique different flavor require different construct skill literally walk door data rich environment future require different thinking past sheer volume datum complexity intelligence mine produce may one big big datum challenge date science big data analytic require cleverness datum house computational technique algorithm digital spatial analysis user delivery understand bring requisite skill table get meld supplement source datum use statistical spatial technique develop total state condition real time move picture craft agent form intelligent representation datum easy mine downstream analyzer example downstream analytic may compare two spatial dimensional dataset agent look significant change agent dataset may reflect conditional variance norm rather actual value archive library historical actual agent dataset form basis model use advanced technique pattern recognition machine learning private research institute partner bring ready experience area obvious analytic goal traffic operation professional thing like predict multimodal traffic flow particularly light non recurring event crash work zone impassable road special event identify crash hazard real time facilitate responder create tool actionable operational adjustment whether automation human operator traffic signal intersection operation adjustment incident transit emergency responder side transit scheduling adjustment dynamic emergency vehicle routing extremely important although less complex analytic app user new frontier public side private partner leverage information diverse population user one size fit approach suffice user analyzer multi dimensional say vertical spectrum user participation level horizontal level user preference participation user benefit obtain combined system sensing urban analytic open datum create synergy magnet induce multi partner service breadth scalable grow opportunity needs city norfolk page vision elementalignment approach five user focused mobility services choicesour approach focus need user regardless age ability ethnicity race income particular user disability old user require choice alternative service treatment technology come intelligent community platform revolutionize accessibility choice mobility app ultimate power flexibility user exercise choice entire spectrum option whether base real time historical information personal shared mobility option user able set preference level participation strategic business partnering mobility service provider world ease successfully deploy norfolk fingertip current evolve example norfolk implementation smart parking meter downtown datum platform connect meter open door park app vendor currently use passport supply host user utility improvement simplified payment time expiration notification automate validation discount business location open space large impact platform remove disutility associate patronize downtown business improve downtown vitality success six urban delivery logisticstrucks create challenge efficient traffic signal operation due different size acceleration characteristic infrastructure south entrance vit could improve intermodal operation port transportation information system contain within network travel time information need support everyday logistic also would include service coordinate user trip planner analyzer partner portal support consolidated delivery service citys economic development department would work potential vendor purchase lease suitably locate piece land storage transfer site seek deploy logistic drive solution could include autonomous vehicle virginia international terminal leverage space available constrained site seven strategic business models partnering opportunitiesas demonstrate section city leverage extensive network partner stakeholder identify develop business opportunity illustratively city partner leverage new fund coastal resiliency laboratory accelerator center capture portion new resilience market connect smart city resilience challenge solution product accelerator also ensure good practice lesson learn get capture disseminate within region nation world business partnering opportunity leverage datum platform facilitate design high utility ease use open datum portal city robust aggressive economic development department constantly seek recruiting business entrepreneur city city offer prime downtown real estate cost entrepreneurial start organization call hatch hatch offer variety tool resource help company almost stage accomplish goal create ecosystem entrepreneur thrive build platform program event course design specifically early stage small business pick ease flourish city norfolk page vision elementalignment approach eight smart grid electric vehicles evs dominion virginia power actively deploy smartgrid technology systemwide citys likely contribution element would come form charge station park charge site drive norfolk city street rarely involve mile minute travel city recently collaborate virginia clean cities install three charge station downtown city property tesla also recently instal charge station city ownership downtown parking garage space city extremely well position move park charge business propose city would also seek facilitate similar installation key private parking facility employer tide park ride lot city would determine way leverage increase power supply infrastructure need garage use use smartgrid technology manage peak loading perhaps even employ form reverse generation nine connect involve citizensas part proposal city partner develop customizable app toward intelligent community platform provide citizen city department business military organization access targeted actionable information enhance ability make smart decision allow survive adapt grow face city challenge app help avoid congestion improve safety mobility route around otherwise mitigate impact flood area optimize business operation connect vulnerable resident service time disruption city leverage vast network non profit public private partnership build upon exist community engagement campaign crowdsource effort make citizen active participant designing community future ask aware involved take smart action risky coastal environment ten architecture standardspart vision produce much value possible norfolk country approach describe section qualification team demonstrate capability commitment element eleven low cost efficient secure resilient information communication technologyour vision move beyond traffic integrate next generation digital infrastructure deliver solution service resident citys exist fiber optic plant base wide area network atms network ongoing expansion upgrade align well vision element serve backbone system city make smart city service information accessible online time anywhere information access website application real time update transportation smart city network datum present open web service appropriate user secure pii protect manner citys digital infrastructure connect reside citys data center also extend internet thing resident smart phone wearable device car tablet etc citys digital infrastructure upgrade expand increase capacity public internet service resident business sensor analytic security storage computing operation silo connect centralize command city norfolk page vision elementalignment approach low cost efficient secure resilient information communication technologycontrol center communication informati flow seamlessly across system government convergence platform robust fiber optic network make possible multi agency effort emergency notification dispatch service via department health transportation safety security plan also extend fully cover smart service use city take account perimeter access point ensure proper control privacy maintain city also develop big datum openness strategy mine information collect make well datum drive decision optimize operation ensure effective citizen engagement cross government collaboration develop customize traffic congestion alert service flood roadway warning system critical infrastructure monitoring citizen express preference specific location delivery method receive flood road parking warning congestion update specific frequent route via push notification text email etc agency prioritize user emergency vehicle critical infrastructure equipment target communication campaign develop different category resident drive work personal lifestyle increase smart service uptake facilitate forum continuous resident engagement service improvement conduct sophisticated datum collection analytic enable city develop predictive insight anticipatory action datum collection analytic allow city blue sky well understand model impact sea level rise flooding transportation critical infrastructure impact citizen could also involve analytic program evaluate current road transit pattern predict future usage guide informed decision maintenance expansion project city official twelve smart land useincenting facilitate invest business land development livability support service infrastructure create future norfolk smart city focus people accessibility recent past see tremendous positive upswing attract high density development walkable transit orient area opportunity continue trend aggressively pursue norfolks planning economic development effort every day vision naval station norfolk transit extension study military circle plan well understanding bad flooding occur intelligently plan land use strategy make area green space infrastructure area become stormwater management zone decrease runoff pollution chesapeake bay improve groundwater recharge city norfolk page risks mitigation city norfolks approach assure capacity risk mitigation project rely rich partner network incorporate redundancy city continuously identify additional entity capacity critical area surface potential risk adjust necessary general security challenge magnify deal big data due velocity volume variability many security issue identify secure computation distribute programming framework security good practice non relational datum store secure data storage transaction log end point input validation filtering real time security compliance monitoring scalable privacy preserve data mining analytic big brother cryptographically enforce access control secure communication granular access control granular audit datum provenance much research dedicate issue issue important big data collect processing activity quickly become overwhelming consider hence apply separation concern principle rely cloud services handle security datum cloud however end point input validation filtering scalable privacy preserve data mining analytic big brother cryptographically enforce access control secure communication remain concern attention propose work closely cloud service define access control datum priority possibility auto tiere storage different security policy addition seek partner provider input filtering technology ensure validity input check untrusted input source multi device environment driver cell phone partner stakeholders governance processes city norfolk strong long stand relationship consider partnership public agency key player stakeholder project also well establish relationship key university research partner old dominion universitys transportation research institute norfolk southern kimley horn siemens midnight status excited engage metropia qualcomm round core team array international expertise ideally suit project team transportation institute city norfolk page portfolio mobility division include signal control technology rail base passenger freight traffic siemens railfusion system soon deploy norfolk improve rail roadway operation electrification solution rail road traffic road traffic control information system parking space management well electronic payment toll system urban interurban traffic consulting planning financing construction operation turnkey mobility system integrated mobility solution intermodal networking different traffic system group transportation engineer network modeler datum scientist solid academic background practical experience passion solve urban traffic congestion problem creative cut edge solution develop integrate high performance mobile computing technology produce app backend analytic capability help user commuter entire system city normal operation pre planned special event unexpected extraordinary circumstance reduce energy consumption cut operational cost enhance public safety use wireless expertise transform infrastructure address complex challenge smart city face true efficiency result interoperability allow datum flow freely across various technology within city function lighting transportation infrastructure enable intelligent communication maintain security protocol citywide solution design ability scale mean entire city seamlessly connect matter need today tomorrow kimley horn kha provide team smart transportation plan design software integration support activity kha civil electrical engineer understand build environment couple software developer translate infrastructure datum intuitive interface mine database additional way enhance way constituent get around kha also apprise recent development automated connected vehicle arena develop research roadmap behalf aashto nchrp relate plan implement automated connected vehicle technology nchrp integral part smart cities initiative midnight status isa norfolk base software development company year experience team member create software national highway institute nato marine corps midnight status locally develop deploy tunnel traffic provide simple smartphone interface hampton roads driver quickly see area four tunnel block congest demonstration governance governance process involve demonstration project require knowledge establish proper procedure follow rule experimental conduct ability strategically city norfolk page engage inspection observation throughout process desire govern party least level independency demonstrating party team provide numerous entity possess knowledge particularly university research unit partner propose colleague hrtpo serve governance lead little direct role concept development implementation experience role operate independent technical staff region city remain regionally objective staff already engage frequently development regional datum collection evaluation reporting example annual congestion report develop inrix travel time datum vdot somewhat similar independency relative city support role team would develop demonstration plan process initially submit review comment usdot vdot hrtpo plan finalize need additional staff maintain independence could provide call consultant contract solicit another university unit main point give breadth depth team partner ample opportunity develop process could multiple independent demonstration testing exercise existe transportation infrastructure arterial miles freeway miles plus mile reversible hov lane transit services norfolk provide robust family transit service include local route complete coverage norfolks arterial system express route paratransit ferry service connection portsmouth mile tide light rail line new downtown transit center open bus equip avl tracking device share use mobility services city pursue joint effort neighbor portsmouth implement bike share service target station uber lyft operate locally city norfolk page information communication technology city along share service partner cox communications robust institutional network net fiber optic ring node support city facility also first year upgrade net infrastructure wide area metro network multiple connection method include lease service hybrid fiber copper transparent lan services hfc tls fast ethernet gigabit ethernet service various shaped bandwidth net citys advanced traffic management system atms communication platform fiber optic network topology redundant distribution ring emanating sonet node replace packet optical transport systems year arrange redundant backbone ring mile fiber cabling upgrade connect signal port cisco ethernet switch successful installation deployment year intelligent transportation systems city operate signalize intersection continue expansion atms environment include type controller type cabinet cohu traffic monitoring camera signal integrate lrt operation signaling quicnet central management software several sensys vehicle counter installation lane use blankout sign million funding allocate complete upgrade control platform atc controller new local system software norfolks traffic management center tmc locate city hall adjacent transportation division staff office center midst upgrade video wall server switch room along conversion video video handling camera control state art system later year include sharing citys camera image vdot website connect vdot regional transportation operations center elizabeth river crossings new operations center tunnel upgrade expansion project complete several rapid rectangular flashing beacon signal active pedestrian detection city upgrade permissive left turn phase section fya head smartgrid system three electric vehicle charge station recently instal city parking facility tesla instal charge station near eastern part city data management sharing integrate new level transportation datum improve capability exist area fleet emergency management simply provide accurate travel time prediction route first responder around unknown road blockage could save life possibility potentially vast array utility may realize cross pollenation replacing city norfolk page source frustration associate transportation comfort convenience mere existence smartphone allow people gain time improve traveler safety predictability plus active information user potential change behavior broaden person reach job service shopping recreation really anything imagine stop cup coffee friend see long time two randomly coincidentally pass near one day phone let know imagine child day care alert simultaneously late without anything get message neighbor know permission agree pick child pay penalty child get play friend delay possibility potential partner seem almost endless recently crowdsourcing constant connectivity enable mobile sensing compute platform smartphone spur numerous remarkable innovation many sector economy include transportation sector company like uber lyft leverage mobile phone platform provide new alternative taxi ridesharing service disrupt traditional business model metropia partner norfolks team use app incentivize commuter choose departure time route mode traffic congestion reduce application system rely constant communication mobile computing technology deliver intend service particular rely smartphone function key enabler facilitate user interaction user input sensing datum collection computing communication million people smartphone percent mobile market penetration give continue increase smartphone market penetration norfolk team plan develop various application reliant mobile computing sensing enable consumer electronic address mobility accessibility need region city envision build necessary institutional technological component create environment pervasive sensing computing play central role improve mobility accessibility city currently collect store maintain variety datum relate smart city challenge addition vehicle tracking public safety fleet vehicle also city facility connect build management system control energy consumption real time outline several key method currently collect datum verizon networkfleet gps drive fleet traffic system city waste management truck street sweeper onboard vehicle diagnostic gps tracking roadside assistance feature system use intergraph cad citys computer aid dispatch cad system quickly answer call create update incident detail manage multiple resource real time system also give ability track route individual responder use mobile device allow dispatcher view person location permit real time risk assessment city norfolk page smart parking meter deployment complete spring connect data platform usable vendor parking payment wayfinde application building management systems city currently operate three building management system develop industry leader include siemens johnson controls citizen reporting applications city currently two house develop application manage citizen request storm relate event norfolk cares center call center take call email request submit smart phone app datum catalog track life cycle request use custom develop application storm system track organize map custom house application also available resident mobile browser base application application use report weather relate issue example flood street tree block road power line name city also work closely regional partner stakeholder collect maintain import transportation relate datum geographic information system gis datum city currently work odu hrpdc hrsd local government grant proposal develop regional gis serve central repository accessing downloading view analyze geospatial related datum local code america brigade also develop application city hrt bus light rail finding application application give real time information hrt route schedule base user location information smartphone local remote storage processing facility store vast amount datum collect propose activity instead build house datum center propose leverage data storage facility odu dynamic data drive processing eventually remote web storage amazon specifically odu node cluster run big data processing software include hadoop distribute file storage format hdf specifically node two intel xeon processor core ghz main memory three ssd disk node interconnect infiniband qdr hba datum management software support data analytic management irods open source datum management software govern irods concorsium maybe employ service run variety platform high degree scalability availability high performance network facility odu partner mid atlantic research infrastructure alliance maria increase campus connection internet network gigabit per second network infrastructure may greatly facilitate processing collect datum since maria connect many virginia university campus feed broad interconnection network southern crossroads sox non profit found georgia tech partner recognize one highest bandwidth internet gateway south city norfolk page norfolks big datum platform stakeholder opportunity use prefer analytic tool open standard access method glean insight datum suggest operational improvement trust information infuse process bring people process information bear insight continuous improvement autonomy standard architectures city norfolk engage deployment atms infrastructure consistent basis use federal funding decade whereby require compliance financial environmental procurement guideline city continue intricately involve regional planning architecture development local agency vdot include participation leadership role hampton roads transportation operations subcommittee hrtpo city exist fiber optic connection vdot plan integrate private bridge tunnel facility near future enable regional collaboration project teammate kimley horn long stand relationship bring expertise software development system design integration support kimley horn develop research roadmap behalf aashto nchrp relate plan implement automated connected vehicle technology nchrp integral part smart cities initiative kimley horns experience include develop concepts operations eastern idaho rural intellidrive guidebooks tmc connected vehicles uva pooled fund study upcoming technology develop software interface dynamic ridesharing product development support axiom xcell san diego software integration siemens multi vendor signal controller environment well work usdot connect vehicle safety pilot kimley horns kits software monitor signal ann arbor broadcast spat datum connected vehicle kimley horn particularly beneficial norfolk smart cities program able meld hardware software design implementation couple technical operational maintenance support program kind important document lesson learn recent effort assist city norfolk migrate serial communication network advanced ethernet platform kimley horn develop testbed citys toc network room prepare test plan secured network hardware multiple vendor implement test strategy compile full document procedure outcome recommendation subsequent deployment lesson learn testbe first pilot field deployment document use conversion subsequent field communication channel ethernet measurable goal think norfolks primary vision goal predominately long term success complex world urban activity transportation difficult isolate city norfolk page multimodal performance metric one glean success failure time frame important concept control experiment almost unachievable default easy collect metric comprehensive discern multivariable contribution measure short term change force issue actually damaging effect one great gain new datum paradigm comprehensive data picture previously exist therefore address issue approach thoughtful use proper experimental design technique importantly promote learn one goal transportation data system archive robust recur knowledge state archived intelligence database design structure importantly serve need analytic base empirical datum equally well serve need robust performance monitoring system ever devise however even one well create intelligent self monitor tool within analyzer report activity would expectation possible impact case automate retrieval storage pertinent data set follow action metric include travel time reliability user population network density effectiveness information evaluate choice transit ridership service metric route diversion frequency utility user satisfaction app facilitate survey business development trend cost effectiveness crash respect crash datum noteworthy propose system begin greatly elevate datum support safety analysis new paradigm crash history assessment possible important point project wise comparable datum collect ndand rdyears project demonstration datum beyond meaningful capacity implementation norfolk forefront technology implementation recognize one national leader field resilience situate heart defense corridor norfolk partner key defense contractor technology leader transform city smart city serve large diverse population improve quality life vulnerable resident norfolk long record successfully implement variety project similar scale scope complexity propose application illustratively past three year alone public works manage million infrastructure project include construction flagship slover library recognize one technologically advanced library similarly past two year alone citys department develop launch house software application regularly support operate scale city wide network partnership coordination local private non profit partner stakeholder release implementation holistic resilience strategy hire chief resilience officer chief marketing officer institutionalization resilience office serve connector aligner effort opportunity within city city department city norfolk page external partner demonstrate norfolks overall capacity executive commitment take propose project importantly citys internal capacity embark project magnitude complexity level innovation significantly enhance prove partnership array cross disciplinary public private non profit stakeholder work city implement propose project provide necessary redundancy mitigate potential risk see section partners furthermore partnership proposal build leverage regional public private coalition establish around huds national disaster resilience competition application development norfolks concurrent resilience strategy development process effort bring together nearly multiple state federal agency include navy commonwealths agency local government institution high education regional planning organization community group private sector partner develop implement innovative resilience project local level leverage opportunity city benefit head start field autonomous vehicle electric vehicle share economy service vehicle vehicle vehicle infrastructure technology norfolk already make significant investment design coastal community future city survive thrive environment rise sea level use opportunity address environmental change catalyst diversify citys economic base connect individual new network city system system continually interact influence impact one another policy action design influence one system impact well bad approach resilience building embrace interaction recognize investment system create opportunity return improvement multiple system address vulnerability challenge way make city broad region truly smart resilient city work propose application simultaneously strengthen physical social economic resilience benefit exist partner network current commit investment build coastal community future instance partnership navy army corps engineers port virginia rockefeller foundation white house sponsor intergovernmental pilot project lead old dominion university local community organization planning district commission norfolk launch series holistic study project redesign land use watershed innovatively use green blue grey infrastructure manage recurrent flooding sea level rise ensure city region resident key economic asset rely unimpeded access reliable transportation network continue thrive coast similarly norfolk heavily invest live work play stay placemaking attract retain project app tool part strategy design economically socially physically connected coastal community future adapt take advantage change condition investment encourage people business move city norfolk page beyond traffic live close work instead put pressure citys limited resource invest costly transportation infrastructure always suitable coastal community face change condition associate flooding sea level rise current overhaul zone code investment light rail future extension flood free area new bike line bike share program complete street policy investment share work space extension fiber network innovation center access early stage capital entrepreneur incubate new idea example effort leverage propose project illustratively propose project benefit recently award million national disaster resilience competition grant accelerate norfolks effort design coastal community future norfolk partnership commonwealth virginia consortium private public non profit partner include old dominion university use fund establish resilience lab accelerator serve connector smart city problem solution market region resilience challenge transportation relate challenge major area focus norfolk also leverage connectivity enhance investment include federal fund study corridor naval base lrt extension intermodal connector project construct bicycle loop improve pedestrian crossing million extend broadband fire optic wealth research intelligent transportation systems itss connect vehicle big datum multi modal transportation operation planning unmanned aerial vehicle related area improve safety mobility transportation system provide partnering university old dominions transportation research institute virginia techs transportation institute conclusion norfolk would excellent choice beyond traffic smart city challenge grant critical funding serve advance state research testing practice key technology area automate connected vehicle sense would provide resource necessary team ideal challenge test bed opportunity norfolk challenge long short term intend address funding outstanding low cost approach tool would develop meaningful short term impact would design easy transferability city address climate change take great meaning norfolk city threaten sea level rise member resilient cities home nationally critical military presence benefit realize large magnitude scope norfolk extremely committed develop coastal resiliency strategy must involve transportation choice must adapt resolve sway	4

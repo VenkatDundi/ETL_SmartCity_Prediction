@@ -1,0 +1,14 @@
+References:
+
+Analytics Vidhya | https://www.analyticsvidhya.com/blog/2019/05/beginners-guide-hierarchical-clustering/ |  Helped in understanding types of Hierarchial Clustering [Agglomerative, Divisive]
+GeeksforGeeks | https://www.geeksforgeeks.org/difference-between-k-means-and-hierarchical-clustering/ | Helped in understanding differences between K-means and Hierarchial clustering techniques
+Analytics Vidhya | https://www.analyticsvidhya.com/blog/2021/05/k-mean-getting-the-optimal-number-of-clusters/ | Helped in understanding methods to find optimal K value for clusters
+pypdf | https://pypdf.readthedocs.io/en/stable/index.html | Helped in extracting the text content from pdf files
+Github | https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch05%20-%20Text%20Classification/contractions.py | Helped with text Preprocessing, cleaning
+Github | https://github.com/dipanjanS/text-analytics-with-python/blob/master/New-Second-Edition/Ch05%20-%20Text%20Classification/text_normalizer.py |Helped with text Preprocessing, cleaning
+Avinash Reddy Nuthalapati | avi.n-54@ou.edu | Helped in understanding error (ValueError: X has 2924 features, but KMeans is expecting 21978 features as input.) while predicting the model.
+UdayKumar Reddy Avula | Uday.Kumar.Reddy.Avula-1@ou.edu | Helped in understanding error (ValueError: X has 2924 features, but KMeans is expecting 21978 features as input.) while predicting the model.
+Scikit-learn | https://scikit-learn.org/stable/model_persistence.html | Helped in understanding methods to save and use a model
+StackOverflow | https://stackoverflow.com/questions/72990315/transform-not-found-in-tfidfvectorizer | Helped in understanding errors for transform
+Analytics Vidhya | https://www.analyticsvidhya.com/blog/2019/08/comprehensive-guide-k-means-clustering/ | Helped in understanding the implementation of K-means algorithm
+StackExchange | https://datascience.stackexchange.com/questions/51224/why-does-transform-from-tfidf-vectorizer-sklearn-not-work | Helped in understanding transform working
