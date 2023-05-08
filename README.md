@@ -152,7 +152,7 @@ Using the file path, all pdf documents will be traversed and the one which match
 
 ```
 
-This returns the the list which contains the xtracted content as string. List has been considered to pass it as parameter for the pre-processing functions.
+This returns the the list which contains the extracted content as string. List has been considered to pass it as parameter for the pre-processing functions.
 
 
 #### Function - "normalize_corpus(content_list)"
@@ -274,6 +274,10 @@ Output - The string which specifies the city name and the cluster id of the corr
 4. As part of pre processing, I have removed single charcaters and words with 2 characters which diesn't have any context.
 
 5. Vector.pkl has been generated and used which helps to fit_transform the contents of all pdf documents before we transform the input document content and prediction of the cluster id.
+
+6. Master branch has been used as default 'branch' - This has been notified and confirmed.
+
+7. Test has been done using one of the files - VA Virginia Beach.pdf
 
 #### Test Case Run:
 
